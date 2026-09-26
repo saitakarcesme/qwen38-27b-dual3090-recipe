@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+models/
+runs/
+code-corpus.txt
+code-corpus.manifest.json
+*.safetensors
+*.gguf
+.env

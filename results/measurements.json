@@ -1,0 +1,1927 @@
+[
+  {
+    "new_tokens": 8187,
+    "prompt_tokens": 253276,
+    "cached_tokens": 0,
+    "time_enqueued": 0.0025005340576171875,
+    "time_prefill": 602.1611413955688,
+    "time_generate": 234.44168329238892,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 5956,
+    "rejected_draft_tokens": 2968,
+    "experiment": "001-full256k-1gpu-8k-baseline",
+    "gpu_count": 1,
+    "gpus": [
+      1
+    ],
+    "context": 262144,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": false,
+    "prompt": "longcode",
+    "requested_input_tokens": 253440,
+    "repeat": 0,
+    "started": 1790399718.7636762,
+    "hour": 0.04048991004625956,
+    "actual_input_tokens": 253276,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 836.625,
+    "first_text_s": 602.280999999999,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.4.4+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "855e90bfb394463aaa380d04aa43b9d99ab40c529fa43872caf09be88743f90a",
+    "warmup": false,
+    "decode_tps": 34.92126436316962,
+    "e2e_tps": 9.785746302106679,
+    "context_fill_start": 0.9661712646484375,
+    "context_fill_end": 0.9974021911621094,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 39.34400000000096,
+        "tok_s": 26.02684017893389
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 28.593000000000757,
+        "tok_s": 35.81296121428227
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 30.031999999999243,
+        "tok_s": 34.096963239212364
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 24.95300000000134,
+        "tok_s": 41.0371498417002
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 27.29699999999866,
+        "tok_s": 37.51327984760414
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 26.82800000000134,
+        "tok_s": 38.16907708364205
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 29.139999999999418,
+        "tok_s": 35.140700068634885
+      },
+      {
+        "end_token": 8187,
+        "tokens": 1019,
+        "seconds": 28.156999999999243,
+        "tok_s": 36.189935007281576
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "status": "completed",
+    "python_blocks": 9,
+    "syntax_valid_blocks": 9,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8187,
+    "prompt_tokens": 253276,
+    "cached_tokens": 0,
+    "time_enqueued": 0.002500295639038086,
+    "time_prefill": 649.2562294006348,
+    "time_generate": 234.07398748397827,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 6013,
+    "rejected_draft_tokens": 2683,
+    "experiment": "002-full256k-2gpu-pp-8k-baseline",
+    "gpu_count": 2,
+    "gpus": [
+      0,
+      1
+    ],
+    "context": 262144,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": false,
+    "prompt": "longcode",
+    "requested_input_tokens": 253440,
+    "repeat": 0,
+    "started": 1790400576.7369084,
+    "hour": 0.2788158078988393,
+    "actual_input_tokens": 253276,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 883.344000000001,
+    "first_text_s": 649.375,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.4.4+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "178ec146776123b9faf63ba206117baeef7b6d7dfb8111036e1fe3f0b9aca99e",
+    "warmup": false,
+    "decode_tps": 34.976120533514546,
+    "e2e_tps": 9.268189969026778,
+    "context_fill_start": 0.9661712646484375,
+    "context_fill_end": 0.9974021911621094,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 37.78199999999924,
+        "tok_s": 27.102853210524074
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 29.23400000000038,
+        "tok_s": 35.02770746391143
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 28.125,
+        "tok_s": 36.40888888888889
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 30.04699999999866,
+        "tok_s": 34.07994142510219
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 26.25,
+        "tok_s": 39.00952380952381
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 29.09400000000096,
+        "tok_s": 35.19626039733162
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 27.889999999999418,
+        "tok_s": 36.715668698459
+      },
+      {
+        "end_token": 8187,
+        "tokens": 1019,
+        "seconds": 25.5470000000023,
+        "tok_s": 39.88726660664298
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": false,
+    "stop_at_eos": false,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 7,
+    "syntax_valid_blocks": 7,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 253276,
+    "cached_tokens": 0,
+    "time_enqueued": 0.003000497817993164,
+    "time_prefill": 436.9910800457001,
+    "time_generate": 153.34778237342834,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 6056,
+    "rejected_draft_tokens": 2488,
+    "experiment": "003-full256k-2gpu-tp151-8k",
+    "gpu_count": 2,
+    "gpus": [
+      0,
+      1
+    ],
+    "context": 262144,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": true,
+    "prompt": "longcode",
+    "requested_input_tokens": 253440,
+    "repeat": 0,
+    "started": 1790401495.129822,
+    "hour": 0.5339249505599339,
+    "actual_input_tokens": 253276,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 590.3430000000008,
+    "first_text_s": 437.2649999999994,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "7bc9e763c0ba1ca376a4b6d03d42608e92e4bf64a9c5714413946282f144a517",
+    "warmup": false,
+    "decode_tps": 53.42105293737515,
+    "e2e_tps": 13.876678473362078,
+    "context_fill_start": 0.9661712646484375,
+    "context_fill_end": 0.9974212646484375,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 24.610000000000582,
+        "tok_s": 41.60910199105956
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 18.73400000000038,
+        "tok_s": 54.65997651329024
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 18.59400000000096,
+        "tok_s": 55.071528450034805
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 17.0779999999977,
+        "tok_s": 59.96018269118971
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 19.264999999999418,
+        "tok_s": 53.15338697119289
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 18.06300000000192,
+        "tok_s": 56.69047223605664
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 19.59400000000096,
+        "tok_s": 52.260896192709495
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 17.139999999999418,
+        "tok_s": 59.743290548426764
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": false,
+    "stop_at_eos": false,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 10,
+    "syntax_valid_blocks": 10,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 253276,
+    "cached_tokens": 0,
+    "time_enqueued": 0.0024993419647216797,
+    "time_prefill": 587.7677865028381,
+    "time_generate": 226.3121693134308,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 6034,
+    "rejected_draft_tokens": 2598,
+    "experiment": "004-full256k-1gpu-151-8k",
+    "gpu_count": 1,
+    "gpus": [
+      1
+    ],
+    "context": 262144,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": false,
+    "prompt": "longcode",
+    "requested_input_tokens": 253440,
+    "repeat": 0,
+    "started": 1790402115.369306,
+    "hour": 0.706213696135415,
+    "actual_input_tokens": 253276,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 814.094000000001,
+    "first_text_s": 587.875,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "d2d1e09ccb393a51fbe4b72ab8f54cae1fe92d94000fde984b453757a8cdb38d",
+    "warmup": false,
+    "decode_tps": 36.19778832420849,
+    "e2e_tps": 10.062720029873688,
+    "context_fill_start": 0.9661712646484375,
+    "context_fill_end": 0.9974212646484375,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 37.82800000000134,
+        "tok_s": 27.069895315638252
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 29.468999999997322,
+        "tok_s": 34.74837965319804
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 25.73400000000038,
+        "tok_s": 39.79171524053722
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 27.4220000000023,
+        "tok_s": 37.342279921228
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 25.85899999999674,
+        "tok_s": 39.59936579141224
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 26.89100000000326,
+        "tok_s": 38.07965490312282
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 28.562999999998283,
+        "tok_s": 35.850575919898525
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 24.45300000000134,
+        "tok_s": 41.876252402565896
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": false,
+    "stop_at_eos": false,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 8,
+    "syntax_valid_blocks": 8,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 56972,
+    "cached_tokens": 0,
+    "time_enqueued": 0.0015001296997070312,
+    "time_prefill": 66.1265172958374,
+    "time_generate": 108.94614315032959,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 6152,
+    "rejected_draft_tokens": 2008,
+    "experiment": "013-64k-1gpu-151-8k",
+    "gpu_count": 1,
+    "gpus": [
+      1
+    ],
+    "context": 65536,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": false,
+    "prompt": "longcode",
+    "requested_input_tokens": 56832,
+    "repeat": 0,
+    "started": 1790402956.259699,
+    "hour": 0.9397943608628379,
+    "actual_input_tokens": 56972,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 175.07800000000134,
+    "first_text_s": 66.17099999999846,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "26750bde197b0e54719e4da39b4ceb39395feaab23c37c71aafea7b9fd63759f",
+    "warmup": false,
+    "recurrent_cache_gb": 0.5,
+    "decode_tps": 75.19311618674054,
+    "e2e_tps": 46.79057334445183,
+    "context_fill_start": 0.86932373046875,
+    "context_fill_end": 0.99432373046875,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 16.2970000000023,
+        "tok_s": 62.83365036508901
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 13.7029999999977,
+        "tok_s": 74.728161716425
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 13.7970000000023,
+        "tok_s": 74.21903312313034
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 12.735000000000582,
+        "tok_s": 80.40832351786048
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 13.3279999999977,
+        "tok_s": 76.83073229293042
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 13.203000000001339,
+        "tok_s": 77.55813072785702
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 12.953000000001339,
+        "tok_s": 79.05504516327447
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 12.890999999999622,
+        "tok_s": 79.43526491350788
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": false,
+    "stop_at_eos": false,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 6,
+    "syntax_valid_blocks": 6,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 56972,
+    "cached_tokens": 0,
+    "time_enqueued": 0.0019998550415039062,
+    "time_prefill": 59.34492588043213,
+    "time_generate": 89.69882130622864,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 6072,
+    "rejected_draft_tokens": 2408,
+    "experiment": "014-64k-2gpu-tp151-8k",
+    "gpu_count": 2,
+    "gpus": [
+      0,
+      1
+    ],
+    "context": 65536,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": true,
+    "prompt": "longcode",
+    "requested_input_tokens": 56832,
+    "repeat": 0,
+    "started": 1790403160.4249876,
+    "hour": 0.996506940987375,
+    "actual_input_tokens": 56972,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 149.0470000000023,
+    "first_text_s": 59.38999999999942,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "252f3a328d1f62d8242bdaee2cce0e8594ab5503aefd510ebba5aa6a07d55259",
+    "warmup": false,
+    "recurrent_cache_gb": 0.5,
+    "decode_tps": 91.32784445441929,
+    "e2e_tps": 54.96252859836074,
+    "context_fill_start": 0.86932373046875,
+    "context_fill_end": 0.99432373046875,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 14.7970000000023,
+        "tok_s": 69.20321686827336
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 10.437999999998283,
+        "tok_s": 98.10308488217747
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 11.139999999999418,
+        "tok_s": 91.92100538600121
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 10.875,
+        "tok_s": 94.16091954022988
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 10.907000000002881,
+        "tok_s": 93.88466122671032
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 10.796999999998661,
+        "tok_s": 94.84115958137696
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 10.562000000001717,
+        "tok_s": 96.9513349744209
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 10.140999999999622,
+        "tok_s": 100.97623508530107
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": false,
+    "stop_at_eos": false,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 6,
+    "syntax_valid_blocks": 6,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 122290,
+    "cached_tokens": 0,
+    "time_enqueued": 0.0015001296997070312,
+    "time_prefill": 188.28470301628113,
+    "time_generate": 154.8614091873169,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 6000,
+    "rejected_draft_tokens": 2768,
+    "experiment": "007-128k-1gpu-151-8k",
+    "gpu_count": 1,
+    "gpus": [
+      1
+    ],
+    "context": 131072,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": false,
+    "prompt": "longcode",
+    "requested_input_tokens": 122368,
+    "repeat": 0,
+    "started": 1790403338.092078,
+    "hour": 1.0458589105473624,
+    "actual_input_tokens": 122290,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 343.15599999999904,
+    "first_text_s": 188.35900000000038,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "3a7887797ad10fb5453f7f2bc5810370bfe19a61f1a75f6e01591cd74ce5412c",
+    "warmup": false,
+    "recurrent_cache_gb": 0.5,
+    "decode_tps": 52.89891163324712,
+    "e2e_tps": 23.872524449521567,
+    "context_fill_start": 0.9329986572265625,
+    "context_fill_end": 0.9954986572265625,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 26.98399999999674,
+        "tok_s": 37.948413874893404
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 17.954000000001543,
+        "tok_s": 57.03464409044848
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 19.014999999999418,
+        "tok_s": 53.85222193005687
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 17.82800000000134,
+        "tok_s": 57.437738389046615
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 19.281999999999243,
+        "tok_s": 53.10652421948139
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 17.95300000000134,
+        "tok_s": 57.037820976991235
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 18.5779999999977,
+        "tok_s": 55.11895790720889
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 17.20300000000134,
+        "tok_s": 59.52450154042436
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": false,
+    "stop_at_eos": false,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 6,
+    "syntax_valid_blocks": 6,
+    "unclosed_fence": false,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 122290,
+    "cached_tokens": 0,
+    "time_enqueued": 0.0019991397857666016,
+    "time_prefill": 153.16524600982666,
+    "time_generate": 111.95487117767334,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 6035,
+    "rejected_draft_tokens": 2593,
+    "experiment": "008-128k-2gpu-tp151-8k",
+    "gpu_count": 2,
+    "gpus": [
+      0,
+      1
+    ],
+    "context": 131072,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": true,
+    "prompt": "longcode",
+    "requested_input_tokens": 122368,
+    "repeat": 0,
+    "started": 1790403710.961225,
+    "hour": 1.149433673620224,
+    "actual_input_tokens": 122290,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 265.125,
+    "first_text_s": 153.21799999999712,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "a713952fbac530b647fd6524ff909963aab00be7cf2375034c39cd0f6899da8b",
+    "warmup": false,
+    "recurrent_cache_gb": 0.5,
+    "decode_tps": 73.17234090689297,
+    "e2e_tps": 30.8986327204149,
+    "context_fill_start": 0.9329986572265625,
+    "context_fill_end": 0.9954986572265625,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 19.76600000000326,
+        "tok_s": 51.80613174136553
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 13.9529999999977,
+        "tok_s": 73.38923528991391
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 13.0470000000023,
+        "tok_s": 78.485475588244
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 13.062999999998283,
+        "tok_s": 78.3893439485673
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 13.468000000000757,
+        "tok_s": 76.03207603207176
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 12.812999999998283,
+        "tok_s": 79.91883243581809
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 13.156000000002678,
+        "tok_s": 77.83520826997504
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 12.640999999999622,
+        "tok_s": 81.00624950557952
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": false,
+    "stop_at_eos": false,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 8,
+    "syntax_valid_blocks": 8,
+    "unclosed_fence": false,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 16384,
+    "prompt_tokens": 245085,
+    "cached_tokens": 0,
+    "time_enqueued": 0.0030002593994140625,
+    "time_prefill": 410.01228046417236,
+    "time_generate": 286.636278629303,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 12366,
+    "rejected_draft_tokens": 3706,
+    "experiment": "005-full256k-2gpu-tp151-16k",
+    "gpu_count": 2,
+    "gpus": [
+      0,
+      1
+    ],
+    "context": 262144,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": true,
+    "prompt": "longcode",
+    "requested_input_tokens": 245248,
+    "repeat": 0,
+    "started": 1790404012.60283,
+    "hour": 1.2332230083147684,
+    "actual_input_tokens": 245085,
+    "requested_output_tokens": 16384,
+    "elapsed_s": 696.6569999999992,
+    "first_text_s": 410.09400000000096,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "c46d90df82c3f0b3e633273db260e03705a83cae45710ddb114c5d463686f11d",
+    "warmup": false,
+    "recurrent_cache_gb": 0.5,
+    "decode_tps": 57.15954755744256,
+    "e2e_tps": 23.518029676009885,
+    "context_fill_start": 0.9349250793457031,
+    "context_fill_end": 0.9974250793457031,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 21.10899999999674,
+        "tok_s": 48.51011416931916
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 18.51600000000326,
+        "tok_s": 55.30352127888419
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 18.01599999999962,
+        "tok_s": 56.83836589698166
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 17.59299999999712,
+        "tok_s": 58.20496788496378
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 18.9220000000023,
+        "tok_s": 54.116900961836784
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 18.79699999999866,
+        "tok_s": 54.4767782092926
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 19.75,
+        "tok_s": 51.848101265822784
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 16.89099999999962,
+        "tok_s": 60.624000947251375
+      },
+      {
+        "end_token": 9216,
+        "tokens": 1024,
+        "seconds": 16.5470000000023,
+        "tok_s": 61.88432948569878
+      },
+      {
+        "end_token": 10240,
+        "tokens": 1024,
+        "seconds": 16.90599999999904,
+        "tok_s": 60.57021175914221
+      },
+      {
+        "end_token": 11264,
+        "tokens": 1024,
+        "seconds": 17.21900000000096,
+        "tok_s": 59.46919100992757
+      },
+      {
+        "end_token": 12288,
+        "tokens": 1024,
+        "seconds": 18.3279999999977,
+        "tok_s": 55.870798777833286
+      },
+      {
+        "end_token": 13312,
+        "tokens": 1024,
+        "seconds": 17.437000000001717,
+        "tok_s": 58.725698227900395
+      },
+      {
+        "end_token": 14336,
+        "tokens": 1024,
+        "seconds": 17.281999999999243,
+        "tok_s": 59.25240134243981
+      },
+      {
+        "end_token": 15360,
+        "tokens": 1024,
+        "seconds": 16.937000000001717,
+        "tok_s": 60.45934935348032
+      },
+      {
+        "end_token": 16384,
+        "tokens": 1024,
+        "seconds": 16.312999999998283,
+        "tok_s": 62.772022313498915
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": false,
+    "stop_at_eos": false,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 9,
+    "syntax_valid_blocks": 9,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 16384,
+    "prompt_tokens": 245085,
+    "cached_tokens": 0,
+    "time_enqueued": 0.0030002593994140625,
+    "time_prefill": 556.7257702350616,
+    "time_generate": 421.10989689826965,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 12361,
+    "rejected_draft_tokens": 3731,
+    "experiment": "015-full256k-1gpu-151-16k",
+    "gpu_count": 1,
+    "gpus": [
+      1
+    ],
+    "context": 262144,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": false,
+    "prompt": "longcode",
+    "requested_input_tokens": 245248,
+    "repeat": 0,
+    "started": 1790404739.0027947,
+    "hour": 1.4350007763173844,
+    "actual_input_tokens": 245085,
+    "requested_output_tokens": 16384,
+    "elapsed_s": 977.844000000001,
+    "first_text_s": 556.844000000001,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "1da7fa49d283246318460c539f666fe0ea302099c03f00dffc2f36f6595c2e57",
+    "warmup": false,
+    "recurrent_cache_gb": 0.5,
+    "decode_tps": 38.906708487922316,
+    "e2e_tps": 16.75522885040966,
+    "context_fill_start": 0.9349250793457031,
+    "context_fill_end": 0.9974250793457031,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 35.34300000000076,
+        "tok_s": 28.97320544379306
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 26.312999999994645,
+        "tok_s": 38.9161251092695
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 23.547000000005937,
+        "tok_s": 43.4874930988976
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 28.42199999999866,
+        "tok_s": 36.028428682008595
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 28.23399999999674,
+        "tok_s": 36.26832896508175
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 25.06300000000192,
+        "tok_s": 40.857040258545325
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 25.906000000002678,
+        "tok_s": 39.527522581637236
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 25.2809999999954,
+        "tok_s": 40.50472686998878
+      },
+      {
+        "end_token": 9216,
+        "tokens": 1024,
+        "seconds": 24.70300000000134,
+        "tok_s": 41.45245516738633
+      },
+      {
+        "end_token": 10240,
+        "tokens": 1024,
+        "seconds": 26.43800000000192,
+        "tok_s": 38.73212799757643
+      },
+      {
+        "end_token": 11264,
+        "tokens": 1024,
+        "seconds": 25.95300000000134,
+        "tok_s": 39.455939583090476
+      },
+      {
+        "end_token": 12288,
+        "tokens": 1024,
+        "seconds": 25.5309999999954,
+        "tok_s": 40.10810387372936
+      },
+      {
+        "end_token": 13312,
+        "tokens": 1024,
+        "seconds": 25.234000000004016,
+        "tok_s": 40.580169612421216
+      },
+      {
+        "end_token": 14336,
+        "tokens": 1024,
+        "seconds": 24.453999999997905,
+        "tok_s": 41.87453995256759
+      },
+      {
+        "end_token": 15360,
+        "tokens": 1024,
+        "seconds": 25.73399999999674,
+        "tok_s": 39.79171524054285
+      },
+      {
+        "end_token": 16384,
+        "tokens": 1024,
+        "seconds": 24.8440000000046,
+        "tok_s": 41.21719529865603
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": false,
+    "stop_at_eos": false,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 7,
+    "syntax_valid_blocks": 7,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 245101,
+    "cached_tokens": 0,
+    "time_enqueued": 0.0025005340576171875,
+    "time_prefill": 556.8968567848206,
+    "time_generate": 218.75141763687134,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 6073,
+    "rejected_draft_tokens": 2403,
+    "experiment": "011-full256k-1gpu-cached-coding",
+    "gpu_count": 1,
+    "gpus": [
+      1
+    ],
+    "context": 262144,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": false,
+    "prompt": "longcode",
+    "requested_input_tokens": 245248,
+    "repeat": 0,
+    "started": 1790405744.7009597,
+    "hour": 1.7143613776895734,
+    "actual_input_tokens": 245101,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 775.6410000000033,
+    "first_text_s": 557.0,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "bdc489ab10c040ee61bec176ad9632bfc0298f163ae801c8ad107a92d97d8cbb",
+    "warmup": false,
+    "recurrent_cache_gb": 4.0,
+    "multi_turn": true,
+    "decode_tps": 37.4489001648381,
+    "e2e_tps": 10.561587126002836,
+    "context_fill_start": 0.9349861145019531,
+    "context_fill_end": 0.9662361145019531,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 33.95300000000134,
+        "tok_s": 30.159337908283792
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 26.68800000000192,
+        "tok_s": 38.369304556352155
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 27.18699999999808,
+        "tok_s": 37.66506050686256
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 25.25,
+        "tok_s": 40.554455445544555
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 24.718999999997322,
+        "tok_s": 41.42562401392091
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 25.57800000000134,
+        "tok_s": 40.034404566422175
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 26.82800000000134,
+        "tok_s": 38.16907708364205
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 28.43800000000192,
+        "tok_s": 36.00815809831672
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": true,
+    "stop_at_eos": true,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 6,
+    "syntax_valid_blocks": 6,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 253338,
+    "cached_tokens": 251904,
+    "time_enqueued": 0.034500837326049805,
+    "time_prefill": 6.370560884475708,
+    "time_generate": 193.32387232780457,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 6371,
+    "rejected_draft_tokens": 913,
+    "experiment": "011-full256k-1gpu-cached-coding",
+    "gpu_count": 1,
+    "gpus": [
+      1
+    ],
+    "context": 262144,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": false,
+    "prompt": "longcode",
+    "requested_input_tokens": 245248,
+    "repeat": 1,
+    "started": 1790406520.7488089,
+    "hour": 1.9299302246835497,
+    "actual_input_tokens": 253338,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 199.73500000000058,
+    "first_text_s": 6.515999999995984,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "11e8489cf3260ca7496036dd01f71931aa0e6b0a93bd35585c080a9ccb7581b7",
+    "warmup": false,
+    "recurrent_cache_gb": 4.0,
+    "multi_turn": true,
+    "decode_tps": 42.374487440999786,
+    "e2e_tps": 41.01434400580757,
+    "context_fill_start": 0.9664077758789062,
+    "context_fill_end": 0.9976577758789062,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 22.375,
+        "tok_s": 45.76536312849162
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 22.062000000005355,
+        "tok_s": 46.41464962377624
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 22.593999999997322,
+        "tok_s": 45.32176684075955
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 24.906000000002678,
+        "tok_s": 41.11459086163534
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 27.29699999999866,
+        "tok_s": 37.51327984760414
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 24.95300000000134,
+        "tok_s": 41.0371498417002
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 25.235000000000582,
+        "tok_s": 40.57856152169512
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 23.79699999999866,
+        "tok_s": 43.03063411354614
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": true,
+    "stop_at_eos": true,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 3,
+    "syntax_valid_blocks": 3,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 245101,
+    "cached_tokens": 0,
+    "time_enqueued": 0.0025000572204589844,
+    "time_prefill": 410.73174810409546,
+    "time_generate": 148.83504033088684,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 6089,
+    "rejected_draft_tokens": 2323,
+    "experiment": "012-full256k-2gpu-cached-coding",
+    "gpu_count": 2,
+    "gpus": [
+      0,
+      1
+    ],
+    "context": 262144,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": true,
+    "prompt": "longcode",
+    "requested_input_tokens": 245248,
+    "repeat": 0,
+    "started": 1790406775.7767663,
+    "hour": 2.000771323972278,
+    "actual_input_tokens": 245101,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 559.5780000000013,
+    "first_text_s": 410.81200000000536,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "1b09c7a8ffa6741302413595ee6736b65f1ad30a8bc5a4d6bc49b4bc8a4ce0be",
+    "warmup": false,
+    "recurrent_cache_gb": 4.0,
+    "multi_turn": true,
+    "decode_tps": 55.04080209732683,
+    "e2e_tps": 14.639603415430878,
+    "context_fill_start": 0.9349861145019531,
+    "context_fill_end": 0.9662361145019531,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 24.0,
+        "tok_s": 42.666666666666664
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 18.781999999999243,
+        "tok_s": 54.52028537962098
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 17.764999999999418,
+        "tok_s": 57.64142977765458
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 16.015999999995984,
+        "tok_s": 63.93606393607997
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 18.875,
+        "tok_s": 54.25165562913907
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 18.406000000002678,
+        "tok_s": 55.63403238073732
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 16.82800000000134,
+        "tok_s": 60.8509626812407
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 18.093999999997322,
+        "tok_s": 56.59334586051462
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": true,
+    "stop_at_eos": true,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 6,
+    "syntax_valid_blocks": 6,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 253337,
+    "cached_tokens": 251904,
+    "time_enqueued": 0.022795438766479492,
+    "time_prefill": 4.187331199645996,
+    "time_generate": 121.31331467628479,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 6527,
+    "rejected_draft_tokens": 133,
+    "experiment": "012-full256k-2gpu-cached-coding",
+    "gpu_count": 2,
+    "gpus": [
+      0,
+      1
+    ],
+    "context": 262144,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": true,
+    "prompt": "longcode",
+    "requested_input_tokens": 245248,
+    "repeat": 1,
+    "started": 1790407335.7486582,
+    "hour": 2.1563190717167324,
+    "actual_input_tokens": 253337,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 125.5309999999954,
+    "first_text_s": 4.280999999995402,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "55c3846971d1c07cfc14ffe7f0c2efe5088681eb9ea245fa22ae2a26e649f0ce",
+    "warmup": false,
+    "recurrent_cache_gb": 4.0,
+    "multi_turn": true,
+    "decode_tps": 67.52762482716525,
+    "e2e_tps": 65.25878069959055,
+    "context_fill_start": 0.9664039611816406,
+    "context_fill_end": 0.9976539611816406,
+    "generation_windows": [
+      {
+        "end_token": 1025,
+        "tokens": 1025,
+        "seconds": 15.234000000004016,
+        "tok_s": 67.28370749637192
+      },
+      {
+        "end_token": 2049,
+        "tokens": 1024,
+        "seconds": 15.031999999999243,
+        "tok_s": 68.1213411389071
+      },
+      {
+        "end_token": 3073,
+        "tokens": 1024,
+        "seconds": 15.078000000001339,
+        "tok_s": 67.91351638147692
+      },
+      {
+        "end_token": 4097,
+        "tokens": 1024,
+        "seconds": 15.0,
+        "tok_s": 68.26666666666667
+      },
+      {
+        "end_token": 5121,
+        "tokens": 1024,
+        "seconds": 15.56199999999808,
+        "tok_s": 65.80131088549842
+      },
+      {
+        "end_token": 6145,
+        "tokens": 1024,
+        "seconds": 15.203000000001339,
+        "tok_s": 67.35512727750509
+      },
+      {
+        "end_token": 7169,
+        "tokens": 1024,
+        "seconds": 15.0,
+        "tok_s": 68.26666666666667
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1023,
+        "seconds": 15.140999999995984,
+        "tok_s": 67.5648900337013
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": true,
+    "stop_at_eos": true,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 6,
+    "syntax_valid_blocks": 6,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 253276,
+    "cached_tokens": 0,
+    "time_enqueued": 0.0025014877319335938,
+    "time_prefill": 436.1110110282898,
+    "time_generate": 185.77644205093384,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 6100,
+    "rejected_draft_tokens": 2268,
+    "experiment": "006-full256k-2gpu-tp151-kv8",
+    "gpu_count": 2,
+    "gpus": [
+      0,
+      1
+    ],
+    "context": 262144,
+    "kv": "8",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": true,
+    "prompt": "longcode",
+    "requested_input_tokens": 253440,
+    "repeat": 0,
+    "started": 1790407517.6144435,
+    "hour": 2.206837345427937,
+    "actual_input_tokens": 253276,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 621.8910000000033,
+    "first_text_s": 436.20300000000134,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "93fa95959651e1244cad19452161d1ee2a5a68697ddd350cabdf880f4595d82d",
+    "warmup": false,
+    "recurrent_cache_gb": 0.5,
+    "multi_turn": false,
+    "decode_tps": 44.09601082657198,
+    "e2e_tps": 13.172726410255104,
+    "context_fill_start": 0.9661712646484375,
+    "context_fill_end": 0.9974212646484375,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 32.67199999999866,
+        "tok_s": 31.34182174339012
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 22.14100000000326,
+        "tok_s": 46.24904024207801
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 21.56199999999808,
+        "tok_s": 47.490956312034655
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 22.89100000000326,
+        "tok_s": 44.733738150358406
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 19.79699999999866,
+        "tok_s": 51.72500883972669
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 22.639999999999418,
+        "tok_s": 45.229681978799746
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 22.54699999999866,
+        "tok_s": 45.41624162860074
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 21.43800000000192,
+        "tok_s": 47.76564978075885
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": false,
+    "stop_at_eos": false,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 7,
+    "syntax_valid_blocks": 7,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 253276,
+    "cached_tokens": 0,
+    "time_enqueued": 0.0034999847412109375,
+    "time_prefill": 431.3376865386963,
+    "time_generate": 158.2736098766327,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 5134,
+    "rejected_draft_tokens": 982,
+    "experiment": "009-full256k-2gpu-tp151-mtp2",
+    "gpu_count": 2,
+    "gpus": [
+      0,
+      1
+    ],
+    "context": 262144,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 2,
+    "tp": true,
+    "prompt": "longcode",
+    "requested_input_tokens": 253440,
+    "repeat": 0,
+    "started": 1790408177.6784096,
+    "hour": 2.39018844710456,
+    "actual_input_tokens": 253276,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 589.625,
+    "first_text_s": 431.4060000000027,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "6f857ecd52a4f8b766ab8d2f4532da8dcf5fa061620eec7da9bc00fc8a948d8c",
+    "warmup": false,
+    "recurrent_cache_gb": 0.5,
+    "multi_turn": false,
+    "decode_tps": 51.758470703898794,
+    "e2e_tps": 13.893576425694297,
+    "context_fill_start": 0.9661712646484375,
+    "context_fill_end": 0.9974212646484375,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 22.625,
+        "tok_s": 45.25966850828729
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 19.95300000000134,
+        "tok_s": 51.32060341802893
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 20.156999999999243,
+        "tok_s": 50.8012104975958
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 18.68699999999808,
+        "tok_s": 54.797452774661814
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 19.79699999999866,
+        "tok_s": 51.72500883972669
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 18.875,
+        "tok_s": 54.25165562913907
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 19.062000000005355,
+        "tok_s": 53.71944182140973
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 19.062999999994645,
+        "tok_s": 53.71662382627539
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": false,
+    "stop_at_eos": false,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 8,
+    "syntax_valid_blocks": 8,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 253276,
+    "cached_tokens": 0,
+    "time_enqueued": 0.002507925033569336,
+    "time_prefill": 587.5468916893005,
+    "time_generate": 228.90005230903625,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 5137,
+    "rejected_draft_tokens": 973,
+    "experiment": "010-full256k-1gpu-151-mtp2",
+    "gpu_count": 1,
+    "gpus": [
+      1
+    ],
+    "context": 262144,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 2,
+    "tp": false,
+    "prompt": "longcode",
+    "requested_input_tokens": 253440,
+    "repeat": 0,
+    "started": 1790408796.830521,
+    "hour": 2.562175144751867,
+    "actual_input_tokens": 253276,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 816.4530000000013,
+    "first_text_s": 587.625,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "8e676291a2c711a1dc14c9d282948558b8f7f00e7bb7895b36a1618d4ff8cfbf",
+    "warmup": false,
+    "recurrent_cache_gb": 0.5,
+    "multi_turn": false,
+    "decode_tps": 35.78854577516672,
+    "e2e_tps": 10.033645537465091,
+    "context_fill_start": 0.9661712646484375,
+    "context_fill_end": 0.9974212646484375,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 33.40600000000268,
+        "tok_s": 30.653176076151528
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 28.375,
+        "tok_s": 36.08810572687225
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 27.531999999999243,
+        "tok_s": 37.19308441086838
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 28.0309999999954,
+        "tok_s": 36.530983553928436
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 27.95300000000134,
+        "tok_s": 36.63291954351772
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 28.45300000000134,
+        "tok_s": 35.98917513091596
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 27.68800000000192,
+        "tok_s": 36.98353077145077
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 27.389999999999418,
+        "tok_s": 37.385907265426134
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": false,
+    "stop_at_eos": false,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 7,
+    "syntax_valid_blocks": 7,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  },
+  {
+    "new_tokens": 8192,
+    "prompt_tokens": 253276,
+    "cached_tokens": 0,
+    "time_enqueued": 0.0029997825622558594,
+    "time_prefill": 431.2102155685425,
+    "time_generate": 153.1089222431183,
+    "eos_reason": "max_new_tokens",
+    "accepted_draft_tokens": 6056,
+    "rejected_draft_tokens": 2488,
+    "experiment": "repeat2-003-full256k-2gpu-tp151-8k",
+    "gpu_count": 2,
+    "gpus": [
+      0,
+      1
+    ],
+    "context": 262144,
+    "kv": "4",
+    "draft": "mtp",
+    "ndt": 4,
+    "tp": true,
+    "prompt": "longcode",
+    "requested_input_tokens": 253440,
+    "repeat": 0,
+    "started": 1790409647.040209,
+    "hour": 2.798344502515263,
+    "actual_input_tokens": 253276,
+    "requested_output_tokens": 8192,
+    "elapsed_s": 584.3280000000013,
+    "first_text_s": 431.28199999999924,
+    "cooling_s": 0.0,
+    "cooling_before_s": 0.0,
+    "torch": "2.8.0+cu128",
+    "engine_version": "1.5.1+cu128.torch2.8.0",
+    "fork": false,
+    "output_sha256": "7bc9e763c0ba1ca376a4b6d03d42608e92e4bf64a9c5714413946282f144a517",
+    "warmup": false,
+    "recurrent_cache_gb": 0.5,
+    "multi_turn": false,
+    "decode_tps": 53.5043933428785,
+    "e2e_tps": 14.019523281444636,
+    "context_fill_start": 0.9661712646484375,
+    "context_fill_end": 0.9974212646484375,
+    "generation_windows": [
+      {
+        "end_token": 1024,
+        "tokens": 1024,
+        "seconds": 24.639999999999418,
+        "tok_s": 41.55844155844254
+      },
+      {
+        "end_token": 2048,
+        "tokens": 1024,
+        "seconds": 18.79699999999866,
+        "tok_s": 54.4767782092926
+      },
+      {
+        "end_token": 3072,
+        "tokens": 1024,
+        "seconds": 18.625,
+        "tok_s": 54.97986577181208
+      },
+      {
+        "end_token": 4096,
+        "tokens": 1024,
+        "seconds": 17.04699999999866,
+        "tok_s": 60.069220390689296
+      },
+      {
+        "end_token": 5120,
+        "tokens": 1024,
+        "seconds": 19.156000000002678,
+        "tok_s": 53.45583629149389
+      },
+      {
+        "end_token": 6144,
+        "tokens": 1024,
+        "seconds": 17.968999999997322,
+        "tok_s": 56.98703322389407
+      },
+      {
+        "end_token": 7168,
+        "tokens": 1024,
+        "seconds": 19.57800000000134,
+        "tok_s": 52.30360608846307
+      },
+      {
+        "end_token": 8192,
+        "tokens": 1024,
+        "seconds": 17.234000000004016,
+        "tok_s": 59.417430660308774
+      }
+    ],
+    "context_file": "code-corpus.txt",
+    "prefix_reuse": false,
+    "stop_at_eos": false,
+    "first_eos_at_token": null,
+    "status": "completed",
+    "python_blocks": 10,
+    "syntax_valid_blocks": 10,
+    "unclosed_fence": true,
+    "test_definitions": 0
+  }
+]

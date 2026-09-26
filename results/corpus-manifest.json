@@ -1,0 +1,4940 @@
+[
+  {
+    "path": "__init__.py",
+    "sha256": "323d1e7f0006fcca5f3a1cb6bb7dd5f7ff8f4281edfde4fe5f91dff038afe1ed",
+    "bytes": 314,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/__init__.py",
+    "sha256": "6c515513d8d129cccdcb81e199e816a02e8a38bfcdade8fe6a0dfb0c0203cda0",
+    "bytes": 36,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/afmoe.py",
+    "sha256": "85932a100d9ea8769321913f50c73b94bfc8a84339a6fe2098ad23e4317b2cde",
+    "bytes": 10975,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/apertus.py",
+    "sha256": "29598f71cbf58ff5f0aab3e340aa7652e0c9841acb5ac34534c9a3cf01121865",
+    "bytes": 6096,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/arcee.py",
+    "sha256": "4d8bb5a862090957c37fde0cd108baf29dbdfd96017343a253f245e9227ff1c6",
+    "bytes": 5536,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/architectures.py",
+    "sha256": "928e2e116ceab9121028640d94ecd58c07e3ccfb1b023f6f476a7d30c56f40e3",
+    "bytes": 3827,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/cohere.py",
+    "sha256": "6e703c50836e77d5eac390ec4f5af3034f883981ff898cf59851e9f710016461",
+    "bytes": 6200,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/cohere2.py",
+    "sha256": "1c04a9cfd2756a52a47bfdeb5a7b69b25bdb31deab96b775e3305c3355ee6a1e",
+    "bytes": 6878,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/decilm.py",
+    "sha256": "18ddfed01704a8c21cbc759327811669975bdc0fbc7275124decd50c54603b51",
+    "bytes": 7048,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/deepseek_v3.py",
+    "sha256": "925efeb8d84b0a41be34abc01e0f53e1608556c1daf27d1162c71f78a6736f3e",
+    "bytes": 10586,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/deepseek_v4.py",
+    "sha256": "9999c51e9db3b8e09da02504debd1052980593b72a4e72e20f76d5d35f29471f",
+    "bytes": 12499,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/deepseek_v4_mtp.py",
+    "sha256": "142108d6947008fe0ca5bc0cfac79dc0387f938abd13fcabfeacaab85699d886",
+    "bytes": 15890,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/dflash.py",
+    "sha256": "64d42d444852ef8ff819544c38c3c773a38cac0344b2b061c50bcea15ff8ae50",
+    "bytes": 12486,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/dflash_laguna.py",
+    "sha256": "0785b4e64053591ba09f7cbebf69a732360ad965e767ad8d55f8a712d9a145f4",
+    "bytes": 14426,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/dots1.py",
+    "sha256": "7303a6b871220bd6c40eecc5d933dcd306e2d4672d84911da657a586351a537b",
+    "bytes": 8752,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/ernie4_5.py",
+    "sha256": "269fb389abc4d7c09f1ff51267ce0f6b8d385a06cb5729da32e8fee94a09f3c6",
+    "bytes": 5479,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/ernie4_5_moe.py",
+    "sha256": "47e718130b22e1fc935e46ca0dcce8915869b81ba26808abbefa29788e3ea7e8",
+    "bytes": 8391,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/exaone4.py",
+    "sha256": "43ab609312a076c2ef0a18c7d78172506d932bb3c3f1af56ac7f860dc47ef2f4",
+    "bytes": 7778,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/gemma2.py",
+    "sha256": "5bf1662a76c38c671275b2cbe8b33484c95a91c5a31ec4a8254c558c69988d78",
+    "bytes": 6750,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/gemma3.py",
+    "sha256": "368fcd399fa50745f61bc0a3059a1ae0e88056420fbe78347a606aeb198f7642",
+    "bytes": 23276,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/gemma4.py",
+    "sha256": "2635eada943e8df6acd13259cce61cc8056c578b4e7724ef100fbedb534be09a",
+    "bytes": 35910,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/glm4.py",
+    "sha256": "a26d0ca5a540dc75cb62d83410264c7ea08fd3dfefe35ad9a7a9b7ec378fd1c7",
+    "bytes": 6453,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/glm4_moe.py",
+    "sha256": "4e19d8de28c5da20f6d741ff247a8177a5ab4c6c209aaf203427d289c7a3b3b9",
+    "bytes": 9103,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/glm4v.py",
+    "sha256": "1fa02c9c910c484bc90485cb2b071e0daac907cf7802471630d4b2765fd8c4b9",
+    "bytes": 15275,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/glm4v_moe.py",
+    "sha256": "e63a7b732b1bb3a969c7235b6dd0ddd60a33b0a8abe7616c72b7d270eda9268f",
+    "bytes": 3399,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/glm_moe_dsa.py",
+    "sha256": "9f3446d4df4938f35f75c2bab566503f356eb1e88fb7c2d74cc44e25c43dd832",
+    "bytes": 12404,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/glm_moe_dsa_mtp.py",
+    "sha256": "b8e00207e794da332bc0215891c94a73857b1fb3c6a7e70fbd5a874c6db04f9f",
+    "bytes": 10858,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/gpt_oss.py",
+    "sha256": "859d6261f17db569578d45ec7970b398b154902b5d6dbb469c97b0bbce784743",
+    "bytes": 9413,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/hcxvisionv2.py",
+    "sha256": "9cae1c88222d9c78179ffdfc59d9dc49b4b4f3df454dec33ed3a5bdee30ca808",
+    "bytes": 3895,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/hy_v3.py",
+    "sha256": "07368ebaf4bd1d6539efc71ec10b5656c8b4903c4f34cf136390d23ef4a5e0c3",
+    "bytes": 9457,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/hy_v3_mtp.py",
+    "sha256": "3a8dcf3029c3814094e456d1b2f04f275d8b7b9ee502213108f7965009e30e51",
+    "bytes": 10094,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/hyperclovax.py",
+    "sha256": "108af07c9513a29498b0be925ca44556e6f9f69839287bd578b1d877769a4c04",
+    "bytes": 7152,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/iquestcoder.py",
+    "sha256": "47f004ddc6c38316c7ed079d11cb3d430c5b314351a9b7d6f7e62d4fabd21f98",
+    "bytes": 1050,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/laguna.py",
+    "sha256": "0e2a73e2b400f26d5f9aeef51e38a3ef1e29ba2c439e577b25cebdf61313f34d",
+    "bytes": 11712,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/lfm2_moe.py",
+    "sha256": "7d3034edd39c85b3c2d5887aa57f796739a885b7bc08ad6c34b2a96e9bad003d",
+    "bytes": 10932,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/llama.py",
+    "sha256": "6a66cfc51d7acfaa3e48c839daa88133332968daf94ef18ec7a9a464af97a161",
+    "bytes": 5700,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/mimo.py",
+    "sha256": "70b6985c14ce9e715e3cf7ca4584bda1e5b614f0c250106316b37a750d8fb484",
+    "bytes": 1005,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/minimax_m2.py",
+    "sha256": "46a9a7abc0c2e5080e1426e895cc12baa717bb3ce6c8016d312cf830c5a80a56",
+    "bytes": 7147,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/ministral3.py",
+    "sha256": "55573658a2633b8b5143cb15e6132246b777a5c57bfdde496e1010a1f8264d51",
+    "bytes": 1758,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/mistral.py",
+    "sha256": "08ad0fc7c585be855e758f567020aedb3b6a28390b8d368bf8bca4a7ce874c5f",
+    "bytes": 875,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/mistral3.py",
+    "sha256": "745e02dc28a738d37f5be3cc20455504d627f18e6ef14941d240df56a4843803",
+    "bytes": 21708,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/mistral4.py",
+    "sha256": "bd1530e792edf65340eb78393d58f1a19e45f39b2b932f455047b9fd0887d8e1",
+    "bytes": 11714,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/mixtral.py",
+    "sha256": "69370d8d30e168ad7a244ff7b15c86c1599f8fb0c26ae5e7260368af314b0856",
+    "bytes": 5907,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/mm_processing/common.py",
+    "sha256": "dd4c080ebf8a651a56ca6877df5f896588be9989210f95a7971b348290224385",
+    "bytes": 2018,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/mm_processing/gemma4.py",
+    "sha256": "b06de603c6e844812c9c4d0a9aa82a35d27cc7d4b8f6d8bdf0b9a201dca1058a",
+    "bytes": 4069,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/mm_processing/muse_glimmer.py",
+    "sha256": "ff5cf83b2e79fef2f3b094d5b68e36e6abef08ca45fc2f009554d2d56b5165e6",
+    "bytes": 5342,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/mm_processing/qwen2.py",
+    "sha256": "a047f1ee7f6eaf36451af29e6fd5589fa565fce336c0709d2db7becec9a2fc41",
+    "bytes": 6384,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/mm_processing/step3_7.py",
+    "sha256": "45d31b4509c125933c2f3dfc1111d69974b1cac5bcc384de635d833392b6fa1f",
+    "bytes": 6020,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/muse_glimmer.py",
+    "sha256": "2230cb7e0b18e153d21225bdbc79b9158d41381d7053195ce6319a7fadf2b527",
+    "bytes": 23670,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/muse_glimmer_assistant.py",
+    "sha256": "5be14aaf4b2c2f7a545db83037c7a9b1800d723febe9c0ad7e2870fb29385fde",
+    "bytes": 1469,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/nemotronh.py",
+    "sha256": "42ede7829ee9947dc2a62c6da3e4978016ed9cd6ae2873899fabfdc220964d15",
+    "bytes": 12065,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/olmo3.py",
+    "sha256": "b2a17d84cd69a4a92ae0ff6d4b82c8969486f421d6d6213a7931392cf61c1ee2",
+    "bytes": 8338,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/olmohybrid.py",
+    "sha256": "d66d510a0a5bf093b7bc69e4f53233aaf4261397c2d37eb162fa3676e5d3e758",
+    "bytes": 11146,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/phi3.py",
+    "sha256": "333218091d2b12a4e5e77b9ea09ecc9ff0ec0db56d3006b5bfaff181a1b3935f",
+    "bytes": 5705,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/qwen2.py",
+    "sha256": "547fa4dc46a468aa15eb25eb3e6f8d8a59206d52ec68939055c1660fa4d755c4",
+    "bytes": 1235,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/qwen2_5_vl.py",
+    "sha256": "bd84568f034d4de93fb6b3e91d17337e98a134b3a6df9dc5602082d6662a0188",
+    "bytes": 16273,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/qwen3.py",
+    "sha256": "b9cd4f8fc00bd8a968edcc2ed5e360e8b167d30054d5b5ed1fe8e52399a11e8e",
+    "bytes": 7312,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/qwen3_5.py",
+    "sha256": "6ac4da9c847c7d249ce2f9b79e0d65c4d9cd4a1efb65a2c0721861af1f1ec679",
+    "bytes": 22187,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/qwen3_5_mtp.py",
+    "sha256": "2f530e1366e544a821e12feda059e02c42cd1cc2823b75ccc7933c798ee88931",
+    "bytes": 10741,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/qwen3_moe.py",
+    "sha256": "8b912c7252dffc9f26bb77ac0f21bde63dd0c6db9c90ae463ded11a24430c327",
+    "bytes": 8139,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/qwen3_next.py",
+    "sha256": "2b280083061d65ca6c584d5c0c1bbd6a97f004f0c8e5b86013fea703f42085bf",
+    "bytes": 10959,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/qwen3_vl.py",
+    "sha256": "68ec34a8095bdd2864577bcebd2c99c0f16058d123e042880efb7b9f3184d173",
+    "bytes": 15480,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/qwen3_vl_moe.py",
+    "sha256": "a4edad0f0b37b5c401f8823b9611f163a85afe2bcd830ce4c0a67d11d38124db",
+    "bytes": 2978,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/seedoss.py",
+    "sha256": "7cb625a06796bc62f63159d32734fe97a62aef1e16b32d17b1fd3298ab530b8f",
+    "bytes": 1010,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/smollm3.py",
+    "sha256": "1c4a36c0697d267b370dc84cbfc16af996ae19b042e402f318b395021f636772",
+    "bytes": 5854,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/solar_open_moe.py",
+    "sha256": "305a64bc91438d38189c3bfe1c0229ce6e40be8389c09bd484475b18be8378f0",
+    "bytes": 723,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/step3_5.py",
+    "sha256": "90c410f5e287158e233ba884dbfe9df4ae29caae13c137f3bb06b6bcc4344539",
+    "bytes": 14462,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "architecture/step3_7.py",
+    "sha256": "0d52db3c28f90b4fadf7dd5a2cfb1f802fb57b9a0dd51f5f3053245d7ad1cc27",
+    "bytes": 16893,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "cache/__init__.py",
+    "sha256": "f1f914f8d0d030a5aa82811395d20bbd26d328439df21cebd687117795903dca",
+    "bytes": 242,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "cache/cache.py",
+    "sha256": "219d03922d7e04e59cccd4bbc133f6714c232aeb6b4ea009e8633af12199bda3",
+    "bytes": 13289,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "cache/dsa.py",
+    "sha256": "d0ca74d42179f1624e354f1a1939ced71236bb47bf57c50d96842b4636814b5b",
+    "bytes": 18084,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "cache/fp16.py",
+    "sha256": "7f22d47e773b2bf23b9780c5f60af14cd03a09e2456513e450d2fdbecd4912ad",
+    "bytes": 2979,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "cache/mla.py",
+    "sha256": "8ae23862973984d3232d7ae46884995eccc4e070806823b863181d76d9dddb52",
+    "bytes": 13370,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "cache/quant.py",
+    "sha256": "86e6ce76a0fa67ff2af59c14c4792a226ae6ee4fc8735d4cebcd4d404e0809be",
+    "bytes": 5601,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "cache/recurrent.py",
+    "sha256": "11d8456c7cdf639eb340b586df641e4c3386107335cf124f566a51f464df8480",
+    "bytes": 7160,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "cache/recurrent_util.py",
+    "sha256": "0291f6de0922ddf0fd655f771244b728e123690be981f1188799940a88da0f83",
+    "bytes": 2566,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "constants.py",
+    "sha256": "f698558f412e0e926ec4df4482ff53907b4ef2f80be4478c7bdc5edc509612ca",
+    "bytes": 186,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "conversion/__init__.py",
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "bytes": 0,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "conversion/allocation.py",
+    "sha256": "775834ac663a85752fbb32534fdd40944bd1c9b844fabefe726b5656b1a8daeb",
+    "bytes": 9364,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "conversion/calibration_data.py",
+    "sha256": "66c830845a375d720771532cc63e00ff51d42d102d5e6134a491003ee574b707",
+    "bytes": 4471,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "conversion/compile.py",
+    "sha256": "925431033aaff2cf9e6561eade5d1838bc22e367c697fe746a412255c043b001",
+    "bytes": 8682,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "conversion/convert_model.py",
+    "sha256": "6370dcbf26f43c4187bab94ea3ed8b9e34e16f0c9def60aa0c48aff6d8e3c44c",
+    "bytes": 63968,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "conversion/measure_model.py",
+    "sha256": "b8409922c40aab4cad4f7b4f04c6a8e7866b6f71b5dc73c18b31652852fd87b9",
+    "bytes": 17438,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "conversion/optimize_model.py",
+    "sha256": "f465074daa1fe27a0f76016e122c423adcd3dfdb535bf326f066bd8ea71b0f4c",
+    "bytes": 6173,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "conversion/quant_config.py",
+    "sha256": "246b3a586d64872e86a533bca49baa2a66ff3ef1d141830741a93de1690de07b",
+    "bytes": 2235,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/activation.cu",
+    "sha256": "730a7382ce97a6d7e87f5144825213a0f09320786786bf7815678126cbd54be1",
+    "bytes": 23463,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/activation.cuh",
+    "sha256": "70f6814119205d49e81d3f0c4c10d9f0269168fbe027ae9e749afd3195ee4f18",
+    "bytes": 3093,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/activation_kernels.cuh",
+    "sha256": "86d08c808eaeb0c1c2faaa5f64df8395261ee06d33becf65b35e358de44a5361",
+    "bytes": 10324,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/add.cu",
+    "sha256": "81728b238653742f8b58c776476f8420f364f21f32ff3c1bbb45b390283eadaf",
+    "bytes": 11318,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/add.cuh",
+    "sha256": "a7e33529fa482a0a9fe0035c03add234240c1077d4d4da17bc343b541c507036",
+    "bytes": 776,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/attention.cu",
+    "sha256": "acc7b9b120587026d43284c4ee40610807bbb33da20cf1d60867c622eee14b30",
+    "bytes": 39489,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/attention.cuh",
+    "sha256": "a825713c471dac9f1ba7c324f42c729e6d082344c8a8a03185fbca687688b1f1",
+    "bytes": 1052,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/avx2_target.cpp",
+    "sha256": "b242dbff4cace0dd596ff830f523b51de2a79b9d106650a812d380660df9ca39",
+    "bytes": 980,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/avx2_target.h",
+    "sha256": "0b80dea50dbea741dc3ca5f1bbf6aa9b8259ea768df9eba0e02efeb88aa7f3ec",
+    "bytes": 453,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/avx512_target.cpp",
+    "sha256": "a21a00b400b8d5a9aa26d891d13e432640ac8eca2383a50a8fe1f4bc4b7d4a5e",
+    "bytes": 1087,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/avx512_target.h",
+    "sha256": "c2c2c999b77a9059cae0659141b4dc459a2a91193efc62dad4ab852e3b4d00f6",
+    "bytes": 365,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/bindings.cpp",
+    "sha256": "df70a595801a6b755c266444e846959c61d38879aad8e9660fed8951ecf77cd8",
+    "bytes": 11664,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/cache/lmq.cuh",
+    "sha256": "ac1953d36e44ec91483f5127d2e12f439a088dcc21c62e6f131c0fd57e3e14e4",
+    "bytes": 2998,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/cache/q_cache.cu",
+    "sha256": "55e2a6dfc59a3e9cf9a90903bae4935bd068083337656f20ee69c9cb65e25807",
+    "bytes": 15112,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/cache/q_cache.cuh",
+    "sha256": "bbe55a1112d695c0b50db135374627a1df4913763db2ce79d5ebae319f5942da",
+    "bytes": 2037,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/cache/q_cache_kernels.cuh",
+    "sha256": "1e4b968d27262e4a1d1b841af78bcba7e4be0bd973410ecb9e8087bb23d9d4aa",
+    "bytes": 16274,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/compat.cuh",
+    "sha256": "ba05ed133eb061702baf7d2f31cf7038b8e32c17a69d2ba4ca77892e318c7dd6",
+    "bytes": 671,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/cpu/moe_handoff.cu",
+    "sha256": "fb6b01821445a089c575d538bf51447ae9684342fd7e9b0574251e5afc71c4ff",
+    "bytes": 14941,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/cpu/moe_handoff.h",
+    "sha256": "eaeb8904d30228d3383642926231e0ca93006b88adb9e80a1d844c35fd8a7528",
+    "bytes": 6033,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/cpu/moe_mul1.cpp",
+    "sha256": "31edcf9d86d39988125fcf92cedf9a73b84c32d4507d737dae3a1097214b7652",
+    "bytes": 94488,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/cpu/moe_mul1.h",
+    "sha256": "ec0334045053818863ad2600f0f4a14358436bc34be9e886f62d97d40203de65",
+    "bytes": 4777,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/cuda_drv.cpp",
+    "sha256": "bca32b39d927b6d69d25478d7a97a322f5f57a67105efee2955f4da53962858f",
+    "bytes": 1922,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/cuda_drv.h",
+    "sha256": "4948dac011365edc15c255fde58de42b4137bb2dd66a03f1e301aadd2e07f84e",
+    "bytes": 1242,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/cuda_host.cpp",
+    "sha256": "3f68fab2e07a994ee06ffa74e1807699f797ab307a7f4c9c48d13ae0b4056405",
+    "bytes": 3641,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/cuda_host.h",
+    "sha256": "41b4bfa305e98eab1628e5cb18af0f76a055348e275ac5dcd72e087e6587918d",
+    "bytes": 495,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/dsa_topk.cu",
+    "sha256": "1e55df2c3389e973de8bad39630044590a0affb6e49ea912f84611725f527ac0",
+    "bytes": 30586,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/dsa_topk.cuh",
+    "sha256": "d792cfa36d5564a5e948cb7afa9dd806bf16f88351770ed6c5f70e90c999c8b4",
+    "bytes": 542,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/dsv4_compress.cu",
+    "sha256": "ecb85060dfabacf30949f15f3518a694883b7298cf7b61f83d46aaee0251cbb9",
+    "bytes": 20329,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/dsv4_compress.cuh",
+    "sha256": "df73367858f905a1954ed36dead54ceaf825bf817ee853405710da1901e97101",
+    "bytes": 1782,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/gdn.cu",
+    "sha256": "4416293629a357b78d41a02c9b489e2a57087a937c993246fd8d37f717d0f8ba",
+    "bytes": 68078,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/gdn.cuh",
+    "sha256": "83aedc93250a7edd6ee3e2a19ae91da59d4c55a2774e60503b9b6d761c4dde5e",
+    "bytes": 6731,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/cache.cu",
+    "sha256": "cea0504d5f899f0d3ef2dc1613a9a3308068a68dea6bb6d0853eb2d9e6c30916",
+    "bytes": 8528,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/cache.cuh",
+    "sha256": "f8cf389112dcfa9b649bc771ce6830f10673764378d213d9e50a75cea6dd43fa",
+    "bytes": 515,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/gumbel.cu",
+    "sha256": "bc60d99b7fb7068f0cf6ac8bd6368a8826ba34ee4a3b8f4e241d08998b144f2c",
+    "bytes": 4093,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/gumbel.cuh",
+    "sha256": "a7af5486e5bdab9003f8ecd6a20234ee957640984895432c6eaabad22621cb63",
+    "bytes": 372,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/rep_pen.cu",
+    "sha256": "659c075a7595afe45e452d9e4a1f5562e3939ce085b464219aaa38aab8e49359",
+    "bytes": 7784,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/rep_pen.cuh",
+    "sha256": "ea68ba7d841a4dc1f8d903fe5d553c226e0053fb5d1add3e50c95b962bb91a23",
+    "bytes": 458,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/sampling_basic.cu",
+    "sha256": "074a36e97bc9e60f12303b9bf777b58d389d63f9c38b1c9c17f0df42bca82423",
+    "bytes": 4972,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/sampling_basic.cuh",
+    "sha256": "bb751835faeb13b57d1a8daf387ad399ad3a19bb0791603230508f6e730e259d",
+    "bytes": 264,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/sampling_extra.cu",
+    "sha256": "8616a2476de7ba4c8dc29b8f6ad9bfa56afdea90c9b5df216b899380896401bd",
+    "bytes": 2275,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/sampling_extra.cuh",
+    "sha256": "0e542f3c54e28e1ab4add0e7d16331a7150230e6b3bcd90d4229dea8076be49a",
+    "bytes": 263,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/sampling_fused.cu",
+    "sha256": "adde122b7e02f76a595942c9835f511aa896bd705aeb7f5d2426674eb67b7646",
+    "bytes": 40514,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/sampling_fused.cuh",
+    "sha256": "296d530ad4c24a0fe6359a8e480effc85a6f62244ede0e95c782174639eeda25",
+    "bytes": 1069,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/strings.cpp",
+    "sha256": "a017bba76541a067c4858220634536b607f53149cc3d5d11c0ebe4616414f950",
+    "bytes": 1799,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/generator/strings.h",
+    "sha256": "fb66b7cf0c450ae7afedb8af8309a1fffe074327fc53f22a8c68f4473b631c2d",
+    "bytes": 367,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/graph.cu",
+    "sha256": "520d510bcb6b257415d1199b06efab397cada72156be94c38b51466cbc9d3247",
+    "bytes": 7429,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/graph.cuh",
+    "sha256": "11306f895fa77d34fbb3af726cad1d8b37255ff121d794965e93e7b54657752a",
+    "bytes": 3115,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/hadamard.cpp",
+    "sha256": "ae6edda78ee821c21f293fd187ba3db28c7b6518f58754ffb1838cec1b1d399f",
+    "bytes": 2485,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/hadamard.h",
+    "sha256": "dd96e4a5031b11ce775db63ac62e7a11e28ecd594773af59e4e5e40f23ad6166",
+    "bytes": 127,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/hc_mix.cu",
+    "sha256": "dc8927c95d6120c3ba082462d03328bca17908bd2e0fe59bdbba0d6b602c914f",
+    "bytes": 20006,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/hc_mix.cuh",
+    "sha256": "1e221c195df16c5dc13388cd733090060f5a9ad9b79187eb1d341bd234e8a236",
+    "bytes": 827,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/hgemm.cu",
+    "sha256": "e45ea1f3f3a7d518089ebb3ae8b24e872ca626d25e7b8d7b47a9918dbca77452",
+    "bytes": 2936,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/hgemm.cuh",
+    "sha256": "0b5f43e20fb68925a25313eed214193c8edfdf607b51a34ebe867c0e07cfaa94",
+    "bytes": 238,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/histogram.cu",
+    "sha256": "b545e2800a4c257be9f27420c78b7fb374043f5ddb4dec984b6912adbee5d313",
+    "bytes": 3004,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/histogram.cuh",
+    "sha256": "0f7ca005e20bcc047400855635db2044cf8c353c498d7415a3dd5d5b83cc6cf4",
+    "bytes": 178,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/attention.cpp",
+    "sha256": "8f58cb74adabbf35d0b0f376f872341ec526621268f86cff33a28687f41ed3e2",
+    "bytes": 26799,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/attention.h",
+    "sha256": "ada0da11a3d8db96048bf7ccc0b14bf44c4a61930c395e794e096edc18d99ed5",
+    "bytes": 9362,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/attention_bc.h",
+    "sha256": "228b7c3d3cbe3838358ded3c687d58603767e7c0f8ae09ac7fac294e319c7c09",
+    "bytes": 3454,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/blocksparse_mlp.cpp",
+    "sha256": "8558032c81870a621e349f94022d7bbcdea94dfa7bf18a494742f8c890a02a2a",
+    "bytes": 25829,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/blocksparse_mlp.h",
+    "sha256": "f2f81ff1b609165c8abd85b616deb80fe251ea63afe5b9fc52e95da47ad0beee",
+    "bytes": 6777,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/blocksparse_mlp_bc.h",
+    "sha256": "d190ab7155c47bfacaa077139d99fef5c9b951e1a170d2d247caab8aaf9d96b3",
+    "bytes": 3028,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/dsv4_attn.cpp",
+    "sha256": "4b6161355e25b3261a11668441a188c38046b69ef88464ef85813e69c3d7b519",
+    "bytes": 28086,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/dsv4_attn.h",
+    "sha256": "19f03720db82eeb0547bace7dd7cadc4dd5f99bd2cf07785b84bf37e301c222c",
+    "bytes": 20012,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/dsv4_attn_bc.h",
+    "sha256": "edbbf9b7f1e15525a9bba2eba1fd1e3330e1c923523d2b4cb16a3446da45e703",
+    "bytes": 2813,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/dsv4_compressor.cpp",
+    "sha256": "3143d9a1c5aa66e2e41cbfc50b620b514233fb9459369eb41f1a831a966ee06d",
+    "bytes": 3686,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/dsv4_compressor.h",
+    "sha256": "a5df29eceae4ac107d80774b3190c65a2f073fb73fca03a288b7f235a84a8bf1",
+    "bytes": 4664,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/dsv4_compressor_bc.h",
+    "sha256": "d459eef41847c78780a6666d9945e43d0f190b794c3723d63b503fbcb12f13f5",
+    "bytes": 1105,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/gated_delta_net.cpp",
+    "sha256": "426eda5b82dd3b5767ecc88eb9fcf20de0e3cbca53a14023c5900ce094b1a615",
+    "bytes": 14271,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/gated_delta_net.h",
+    "sha256": "e1bd76079a4c79672e2564e51f3925c4c55b3880ad68a3945869d0b3bf586ee8",
+    "bytes": 13847,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/gated_delta_net_bc.h",
+    "sha256": "30d0832c65947f03f47f9b11c6472ab2b478e0916c2134417656e9795cce6854",
+    "bytes": 4321,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/gated_rmsnorm.cpp",
+    "sha256": "f0e7e71a4e2b0348561000581310fc512c1bca0a24ade1ce02053b021901c9db",
+    "bytes": 595,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/gated_rmsnorm.h",
+    "sha256": "6313882dba1e345e7244da66b230258a58c76706fb8e0d69588d513a2703b3f4",
+    "bytes": 932,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/gated_rmsnorm_bc.h",
+    "sha256": "d6990c8dc99fd7604187f143d438deb90b53e871601609d229c128bf4b59b9d9",
+    "bytes": 388,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/linear.cpp",
+    "sha256": "15e17c717fa6ab607180b1f73a37a1c2736ca911bab614e4d5597e6968571521",
+    "bytes": 1895,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/linear.h",
+    "sha256": "ac1b1ad47104d3e3fa03ef24460732c9a04f4d32fdb38599eb84aaecc3883e35",
+    "bytes": 1482,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/linear_bc.h",
+    "sha256": "8109fa483469c3eb4231abb78a9dd12b3a285a9fa5652357b9399a95b5b45735",
+    "bytes": 844,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mla_attention.cpp",
+    "sha256": "4614641da2bc440d396265b029233e112e4d1af48e2eac41368f725225cf9ebc",
+    "bytes": 36976,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mla_attention.h",
+    "sha256": "0088a11fb5a6b779496012fc12b0b2ee29fa0fc0dd4b465430075bf8998f9049",
+    "bytes": 12583,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mla_attention_bc.h",
+    "sha256": "90958218c587d29cf0ad75ac5f521c48a65b1e4a089faa74f2ecb71679f57680",
+    "bytes": 3272,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mlp.cpp",
+    "sha256": "4e1233c273dd7efffe2008620b70b35ae3f5cab4ffa5af61506aa3123414a898",
+    "bytes": 8019,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mlp.h",
+    "sha256": "d29936c801e92b177ff771a7cfcfddb32693ff25d7f47ca06974a7612bb09266",
+    "bytes": 5938,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mlp_bc.h",
+    "sha256": "06815f8534f6a786db812a527f1829d728f220622fb3ae6d94ec46b6dc7e5eac",
+    "bytes": 1686,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/norm.cu",
+    "sha256": "8463869be739f29f4bc30bd79f4c6289b3d38cd1d829699409e9003561a6667e",
+    "bytes": 25388,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/norm.cuh",
+    "sha256": "ec12872d957497df07f10f87d26968ee785b929949f6e8ecec541f246bf93890",
+    "bytes": 1325,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/all_reduce.cu",
+    "sha256": "b2b39c85d3bec19ee353593a0a187671ee94b195fc3ef618a8133d8bb2a33155",
+    "bytes": 9953,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/all_reduce.cuh",
+    "sha256": "1e1950ad6b5369adc615899b52670bb01dd32e49fd545ad3a9b8e5d444ed8494",
+    "bytes": 1267,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/all_reduce_cpu.cu",
+    "sha256": "4d3f4c7dc1b0a72122efe74c640a66651b9693e666818e725cc3d3d98ad88859",
+    "bytes": 25045,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/all_reduce_cpu_avx2.cpp",
+    "sha256": "04184d862e295d0e3f9a14cd0b1976e80829604611c12eeecaba19f5d29d7d55",
+    "bytes": 14861,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/all_reduce_cpu_avx2.h",
+    "sha256": "08b748ca619bbcafb23bc693a091002cddce5244735b35e5ec998b4bfaedf6cc",
+    "bytes": 4572,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/all_reduce_cpu_avx512.cpp",
+    "sha256": "43e9d83ded3eafcf19fa3fe99521c696066bec36fa85ee8956662f276943a8ec",
+    "bytes": 17378,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/all_reduce_cpu_avx512.h",
+    "sha256": "ef408f882e80e4f57f85481d140d435a2fff6b527b725fd1053c806768dca668",
+    "bytes": 964,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/barrier.cu",
+    "sha256": "ba9aafa19b38e038320eb5ac67c9d6f14886d830417413c36b8b2e52fd17abab",
+    "bytes": 1218,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/barrier.cuh",
+    "sha256": "84edf5dca11d4923fe6fe27b8e089dc6212feb33e52fa0d56478e793c63a64cb",
+    "bytes": 535,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/barrier_inner.cuh",
+    "sha256": "dce4bf60f77c6962557088e4cde26d3e22df7e687e84ae01746bdc9c4223c440",
+    "bytes": 2596,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/broadcast.cu",
+    "sha256": "17bcae495a2bcb0fb0ef3ecc710d3447b7ed556bfe972e1d46447b1a27a38d84",
+    "bytes": 15744,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/broadcast.cuh",
+    "sha256": "ea3a99d18445707953bc6e2bfdd1a7e309c91767281149519387ae12302b6c70",
+    "bytes": 916,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/context.cu",
+    "sha256": "357830ba30f98cda713afca0e7b5a651007a87111d61dff07078a819b22546a5",
+    "bytes": 1476,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/context.cuh",
+    "sha256": "07e7157995d7f77cd3c43efcf8da8fa4d51c08d4f2b6a2d803046991aad810dd",
+    "bytes": 3128,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/gather.cu",
+    "sha256": "2f559790fdcc3d198e253b4d958788eefa6e5352aed95e4d01d107fd7d54afd1",
+    "bytes": 16428,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/gather.cuh",
+    "sha256": "6c8a7de8bb3522a13265abfab9ddc903bdb9a2d41390b87c7d91c8b641728219",
+    "bytes": 1065,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/ll.cuh",
+    "sha256": "1be56fc50019ac36334a06ec260e22efa9481bab16364ce229f0f729690a1657",
+    "bytes": 918,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/parallel/timeout.cuh",
+    "sha256": "857d84cf091ea6e789f0e515fc617c79e479304837dbd7187b40653afeab567d",
+    "bytes": 533,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/ptx.cuh",
+    "sha256": "16ed107fae29fc5bb997b8e0660318ce0f96759698561fd359d43ca3a510e367",
+    "bytes": 9971,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/codebook.cuh",
+    "sha256": "3558f224d5af14ea7357fd6d1da13aa473182cdea88b210304e90587f6556dc9",
+    "bytes": 6030,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_1.cuh",
+    "sha256": "0eba299b125359b54c4973296c6133ff216d5e48de59b96c1321009286540d3f",
+    "bytes": 42,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_1_cb0.cu",
+    "sha256": "95b4a33f755767834b681ca6371c8fa1a4f2165cb83591918ab4fc573717dcbb",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_1_cb1.cu",
+    "sha256": "25cbeba127689ca1d8fc10d492a8a00c3bab8fcfa8b132f7413944493b3d225c",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_1_cb2.cu",
+    "sha256": "f20cd2e521c61410a894300da724486191091520b6f9776616e6c667621a1b2e",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_2.cuh",
+    "sha256": "c98ed709e3cc10e7ab8036fdd51b38eaf4279ad594a323e1a30c8e86b76a3939",
+    "bytes": 42,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_2_cb0.cu",
+    "sha256": "7b829159dec3bd298ac1d9f796a6a2039126bc551b683aa4a61de6826a8436d4",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_2_cb1.cu",
+    "sha256": "99a46c55910dea77a9da834c46ccf93a9fb2d520c2768500a05779a1db31f799",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_2_cb2.cu",
+    "sha256": "6a2997b8e2bfc5bcb05ef97cebfd40e0e0c06a8057a7d5e2355f977693ea5c05",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_3.cuh",
+    "sha256": "fb4c4cbbcec376864dcbe4956d099c939d1fae4e5c375190a70ff00c172e3761",
+    "bytes": 42,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_3_cb0.cu",
+    "sha256": "2b5c557afba5388e9187ccc97c01b045a735681776f6551b536e4f2c90bf0848",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_3_cb1.cu",
+    "sha256": "a73efec270fbc86fcb80b191deca39679e3b84a5291c41b6beaaf19efec205af",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_3_cb2.cu",
+    "sha256": "a769d4bd5f9f1e4184d36fcd0ed318e8cdb2473fe844873b3fef339e3c0e73f2",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_4.cuh",
+    "sha256": "02d0a15b56a81f2b81a4162641cc5a816d63154e0e7fcc23705831836427d198",
+    "bytes": 42,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_4_cb0.cu",
+    "sha256": "eb9a21dd9392ef9db2de28b9d20e3f9890993ca42d11b8510dd0dd01b9816180",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_4_cb1.cu",
+    "sha256": "8b12b224ea4f757d1b6abfb7ccbfcaab17e0c9e772e5486946145bb1b3560fda",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_4_cb2.cu",
+    "sha256": "6764d0de2b7e37e21b3f938cdadbdb8ec8afa7b0300bc0bf5c629711796981e3",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_5.cuh",
+    "sha256": "5ca100a580a1fa98910b1af86fe3d71fbd4194bb61d1bb3da25011d7155c907f",
+    "bytes": 42,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_5_cb0.cu",
+    "sha256": "c1ddbf96a251780d5beada770dae5e8e19b706b8fc3ff5bc860d4e906fc5f395",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_5_cb1.cu",
+    "sha256": "a43363cc8d46960b579d3524bccd1916e521cb84fd0ad445462a0b673308cbdd",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_5_cb2.cu",
+    "sha256": "cdf9b5330023fb0bbac4376994f10ef2ac362f36f0d8d7ffffaa8578d606566c",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_6.cuh",
+    "sha256": "04f6a4ce2d32c518fdabdba85629f2ad0e1d7ec328bfff81b5ea8261934f2739",
+    "bytes": 42,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_6_cb0.cu",
+    "sha256": "96c5f5e721803936e0ccd85b9423c4743e5ef5e2dba3d221573acad3126df1d8",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_6_cb1.cu",
+    "sha256": "7abb8d4c9141f2fa725c7bfdcd6fee3eff136f84066b78cee4cd323adc876af2",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_6_cb2.cu",
+    "sha256": "def95fa006d8f42c95e4088154d1f97d91623d3c8fc1fa13a5778865b95fbe16",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_7.cuh",
+    "sha256": "0d48a2c44463550b030c0c6ed940eea0bc5a98452fb08ca8aee6054b6da0344d",
+    "bytes": 42,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_7_cb0.cu",
+    "sha256": "a1cf03f71520e548416f230d4fbb83e40a113823ea94b6ce6e4dc4dead9f266e",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_7_cb1.cu",
+    "sha256": "5980a6f769a75a808f0e284c99d6144f1e7781345cba9f6143122bdbae7f54db",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_7_cb2.cu",
+    "sha256": "7fc817aa7e90bff1f93a3025263c2d8cf9a03312d7a180ade3505eeaeb1547f0",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_8.cuh",
+    "sha256": "f82577d3e95b785cb93b2b5e8ad65a41559f825f0e32b62a61e1748429c67452",
+    "bytes": 42,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_8_cb0.cu",
+    "sha256": "df11eab6aa5779e6183729481337091f1c209c60fac72a3a47811459a614b39a",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_8_cb1.cu",
+    "sha256": "9544266fe488fd27bbbb9afb226a9c5d7e786a412ea0a744f798310c1db141d1",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_8_cb2.cu",
+    "sha256": "2962a116d0619e1fe7e16c9ad615ed2eaaa48e31f4f9bcc5eb6f10e6b27bf6e8",
+    "bytes": 298,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_coop_k1.cu",
+    "sha256": "dc1137f6c9ba244163c128d944f4d58dd47e1c60e4bb2c1ff12b0d399a16f98d",
+    "bytes": 502,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_coop_k2.cu",
+    "sha256": "cf9a30878414395bd50d5e4ee558020df070fc6005e3c0e022e0a3ae6e39a57b",
+    "bytes": 502,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_coop_k3.cu",
+    "sha256": "7c2ce78fa9ec8b28713a2b67adedf0ff202a40f72b3890b27e45fcfa5cdc31c7",
+    "bytes": 502,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_coop_k4.cu",
+    "sha256": "a2ccaff23c20e29ff7914819820dd201fffddd20b5a8d16fd95aa19757fcc72c",
+    "bytes": 502,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_coop_k5.cu",
+    "sha256": "a8528dfbce821426e0f41b7ef42d46da0a55623fbe9578f455749711dc632e1a",
+    "bytes": 502,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_coop_k6.cu",
+    "sha256": "a982dc5ee78d2153381344aae3f2617ade6b859e508874b928a6a2d6266b1538",
+    "bytes": 502,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_coop_k7.cu",
+    "sha256": "c0a9c88ee8d91c8c7238cbdcfbf1380804e2c0ffc0445df9d0cc4c2437ccf79f",
+    "bytes": 502,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_coop_k8.cu",
+    "sha256": "79a106571eb1f2ea9d7713f72eb1cea9b33dd613e61f7439d396077f79e4b3f6",
+    "bytes": 502,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_sq_k1.cu",
+    "sha256": "62e9f57182871d3542d4b5821900becc74b4495786df51ca7e698969be5cf518",
+    "bytes": 691,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_sq_k2.cu",
+    "sha256": "76f33f9bb21908a0e5e7d700084fae450c8ca3484f553b110b9d677fb55a5b6c",
+    "bytes": 691,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_sq_k3.cu",
+    "sha256": "01ac7b5e120bdc7f56cb6b5f069d17c83886e1c340d753c9bb74b956268ca4a6",
+    "bytes": 691,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_sq_k4.cu",
+    "sha256": "b0d565086378e933ed412b0e451febcc5d609fa586841a690b45956ec4591fce",
+    "bytes": 691,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_sq_k5.cu",
+    "sha256": "3bd436282b288668e98b55f6b755cf4bf42c49c9d9ba4f6b34036f743d8b8ff7",
+    "bytes": 691,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_sq_k6.cu",
+    "sha256": "d3753e802639b2cab20e4856b59748673c20e70f763d4959c72aead8054123b7",
+    "bytes": 691,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_instances.cuh",
+    "sha256": "f0bbce8d23bc3f25a84ca58c436c1a446e8e4e5f8712d0e92029660367676f21",
+    "bytes": 1031,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k0_n128_cb1.cu",
+    "sha256": "0eb228fa980cf1b7be953ec313085bb8b0de8848ee4a6871fe436dcf0d5afc55",
+    "bytes": 161,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k0_n128_cb2.cu",
+    "sha256": "7086cb458d8ecf1f5c1461ab40a36f5c3c4f80b213dfe6d275ba4d57b9f0afe5",
+    "bytes": 161,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k0_n256_cb1.cu",
+    "sha256": "cb11ad332c5aa89f70c1f8f84d311ec8f5106b653d47b52df771fdfa5632894b",
+    "bytes": 161,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k0_n256_cb2.cu",
+    "sha256": "c56c662f4d71c2d32818c869f68f436a535f29e0e876b8ff0ad297e390a664f7",
+    "bytes": 161,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k1_cb1.cu",
+    "sha256": "88130fadf7d4a42da21e7c428e4863e5ef672115edc8e3487ddc25f684a5a743",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k1_cb2.cu",
+    "sha256": "ae73afa92dae87565a186382cc0e68bd3dbf27350465c90c9182b50432f84f46",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k2_cb1.cu",
+    "sha256": "4f5634cc4bc19723be5e27b47502bb694670453a95dc1afdb74480ad2e214501",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k2_cb2.cu",
+    "sha256": "1655479ab470406d7b0587892fbebbe0584e8a8f995f8125caffdf97c45eab60",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k3_cb1.cu",
+    "sha256": "88efe9d37a1a132e4f4ade9216a7a875b1eafb2633c00043061416bb04aea7c3",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k3_cb2.cu",
+    "sha256": "a3fff63b5e734d0dfb2bf8ca0afb2906f3db7cabe67d894f7ebacdddb7e25f34",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k4_cb1.cu",
+    "sha256": "f16e6e07f100086d1d6b76a6ed904241fd3e5b7d9d8f58ca0a8d77e06b8a0ac9",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k4_cb2.cu",
+    "sha256": "8061295d1c0a1994721baae2549a00d94f2872b1d8b0897dff5821b60a0a9e38",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k5_cb1.cu",
+    "sha256": "897756da0ea3e4bef4109cf221d4fb37f339e60409666a7316e6a9f5899e7fcb",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k5_cb2.cu",
+    "sha256": "833c8ad8a5ec357943754e8a9b1237a6cdefa4898bca1bb73e2a9a9db38b7bd3",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k6_cb1.cu",
+    "sha256": "3481d756c746b1d9030a338558abdaf2f1cc690025722ad8f366e2af02f100c8",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k6_cb2.cu",
+    "sha256": "1ee4585120429a5f4976a88dd4535fd5e59e6728c16becd713443d54d334a80d",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k7_cb1.cu",
+    "sha256": "6a80615546fabee56e7514bbbece8736125b3dd4b27a05d9b1ffb90d38d1500b",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k7_cb2.cu",
+    "sha256": "e9599a336d6ef817c049ac4d5529f8cf3a1bbba9f1e20a2870696c4abb275750",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k8_cb1.cu",
+    "sha256": "b466b810872adbd2bd4cc88e53a688ff02b8e81a013a065304bf1815de30b24b",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k8_cb2.cu",
+    "sha256": "777a87e472f73585f8d451b99374513c3726b0fe6f608603c725540307427599",
+    "bytes": 250,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_instances.cuh",
+    "sha256": "b780e6487764c6696e2f167b383a6a625200c327470c89e33984da85d4af74c4",
+    "bytes": 763,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k1.cu",
+    "sha256": "338e30d8559ccf59622031ed6fb7e66bb613a21bd15b2f52e5624d58811a2d0d",
+    "bytes": 375,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k2.cu",
+    "sha256": "d96df1e28fbc34ecdb73710d54eb251321d6530092f35925aefddf339cf3e888",
+    "bytes": 375,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k3.cu",
+    "sha256": "8002e514e2063385b7629f5c6ecaa214d512bbe2caefa0d4d8c71d2c633ce2f9",
+    "bytes": 375,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k4.cu",
+    "sha256": "d63187932697ebde8452cc0dbf656b481e091f79375b6e4192b163d0d0d98c87",
+    "bytes": 375,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k5.cu",
+    "sha256": "7afee0c26f975abcd2db479624b0bed534018d980522bf56081a7d4f74691aa4",
+    "bytes": 375,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k6.cu",
+    "sha256": "2de4edf781329e88b299a56a099f88a79f678f847a645fbc44cfcc782a3b22e1",
+    "bytes": 375,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k7.cu",
+    "sha256": "b4a78b32ec7f24df18e8cc6f32870c4e88e3cb2300ae15584c854efcc2ede930",
+    "bytes": 375,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k8.cu",
+    "sha256": "49cc48d0139fec4c0f6743cc95a02c6480c300c6c6cd4aa072d2edc26add0cfd",
+    "bytes": 375,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_instances.cuh",
+    "sha256": "0a29d0299d8b3eb3b7773d5713c49b5c94cde72706cb7c8d701e605ea192e028",
+    "bytes": 1551,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/coop_autotune.cu",
+    "sha256": "735c5ea236763c54ae32f7e10dad96f6330138ba695847165469b6ff147f1dd3",
+    "bytes": 19803,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/coop_autotune.cuh",
+    "sha256": "44f10b3f1b99e0711f93271388121550bdb18b8933622c5e6bf161a9131314ee",
+    "bytes": 873,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_devctx.cu",
+    "sha256": "ec432f16aa3b606fbf25b11aefd0d51a7c7bae46e4a43693a8c85292f2e983a2",
+    "bytes": 2181,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_devctx.cuh",
+    "sha256": "e449a839dbc29862a6306fd7eedbe7d5406412371d8c22a50856151d6045d71a",
+    "bytes": 1510,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_dq.cuh",
+    "sha256": "4d8965c8f81cfebe9e6ff706a76346318cebaa674c4b334655b39dd8080ba93a",
+    "bytes": 10616,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemm.cu",
+    "sha256": "c154629f529212666f7c3f1e8a6544fb39f950f258d7805132ce66001120358d",
+    "bytes": 22391,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemm.cuh",
+    "sha256": "3ace777cf5fdd526257b66f60db004b6237fbae186e16ab91a8cd2886ee7ca68",
+    "bytes": 1825,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemm_inner.cuh",
+    "sha256": "7ec895cf7498001100bdd7cfc900be56fe851d57b4d2ef24ffce8bd2e027dcc3",
+    "bytes": 24133,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemm_kernel.cuh",
+    "sha256": "422d8347d764d8a1696ee15e3e14c067b32c10616ef92561b2ca2b463b5f700a",
+    "bytes": 11372,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemv.cu",
+    "sha256": "981b6de8d74af5aa3f297dd73a8011b4e7aea51b41972545a0a46829e8ec0417",
+    "bytes": 8970,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemv.cuh",
+    "sha256": "c7d53f0019a0c6ab610768ef755caf96b2141c7af32d7bf5698ef054d9feb4b2",
+    "bytes": 1175,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemv_int8.cu",
+    "sha256": "025e78bf080fa67e9e5b5093986d0b7b8fd8b91de3f0b9535c128f253d4d08ce",
+    "bytes": 14690,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemv_int8.cuh",
+    "sha256": "f5e2875355163c199abc1a54556a24f288f4be9b289daaedf25f8eee86dc9262",
+    "bytes": 1305,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemv_int8_kernel.cuh",
+    "sha256": "c7a0acaea6f27e08a9a059631fa2ff176b1d2f9626afbe489b0bc9b32c948928",
+    "bytes": 49393,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemv_kernel.cuh",
+    "sha256": "678b78f39f52d88425e58dd67f563cca65a77fe4a10f8bc56262379a8ab9dd36",
+    "bytes": 15754,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_kernel_map.cu",
+    "sha256": "909eafb68571741c09ef4474760ef76cf057c7660730b9f5238b0296ccfa0c7d",
+    "bytes": 7531,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_kernel_map.cuh",
+    "sha256": "640df4f38363addad410a12a326355ab75fa8c91bdf6db43278a8bd857e340df",
+    "bytes": 4872,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_moe.cu",
+    "sha256": "da87524557e947e6fdb80bc957b80a8fde5e6145b9a8f606cdbafd9a6b95c73e",
+    "bytes": 11458,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_moe.cuh",
+    "sha256": "7dc5876df078f5ee3f703c866be74290080cc0bf9100d21deaa2a8968209e683",
+    "bytes": 1151,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_moe_common.cuh",
+    "sha256": "dbe7ed191992921be9abf2538457274fba6a9372955f828948414987ec9e559d",
+    "bytes": 2459,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_moe_kernel.cuh",
+    "sha256": "1faa9c3a032dd71724b0d57626529b96d643d4cd493bdc8fbfe4d4438c936a4d",
+    "bytes": 12842,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/hadamard.cu",
+    "sha256": "d62dc6c82c43d5fbc787158418afa8229cb5071918e751c8b503ec1448751ce8",
+    "bytes": 10239,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/hadamard.cuh",
+    "sha256": "62dd54988bb76628d40442ff90e0384d2081ab306ad426561cb03689dd53cbd9",
+    "bytes": 631,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/hadamard_inner.cuh",
+    "sha256": "98fdfa587ce8b36cfcc01876d8a6718a26042337f0d684dbc5f9de0bf96767c2",
+    "bytes": 13312,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/pack.cu",
+    "sha256": "9cba0f372ac96c204d59c4b18669f9202b3191a5b9aff9d508a2c3dc6d1da3df",
+    "bytes": 6240,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/pack.cuh",
+    "sha256": "7f9ae60ccbc580c777d7e5af435e9ca75a3a6a14b379fcdce1717547b52e4d9c",
+    "bytes": 297,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/quantize.cu",
+    "sha256": "5deef05e128a7819527efa9357e14c021354536252fc9bce192704c8352b8d44",
+    "bytes": 8141,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/quantize.cuh",
+    "sha256": "8617f8df170ae2c4a653b5c0a38495d94ba5560f12c1c102d9da7dd1f905b7d8",
+    "bytes": 583,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/quantize_tiles_kernel.cuh",
+    "sha256": "72d624322b133167e3a6b587fb8bc9b2f7e8bc5d8285de97c060562249b9203c",
+    "bytes": 12179,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/reconstruct.cu",
+    "sha256": "c9ffad9eaf45e2f9a4966a974ad6b6ac2fdd53647a92a3ccf1e8840c43367938",
+    "bytes": 13920,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/reconstruct.cuh",
+    "sha256": "cd5a1ebe6cec34a75781724b968a56f179402709fc59a0a9be63013e94990322",
+    "bytes": 503,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/util.cu",
+    "sha256": "7d40b8b34b13b8699a88356eaf40bf0e57700cad48c3711917ae5abbf23d1af9",
+    "bytes": 2921,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/quant/util.cuh",
+    "sha256": "8142d59dabab85d17c712c55a8a32592360cd79750865f8387260c8bbdf6d120",
+    "bytes": 124,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/reduction.cuh",
+    "sha256": "fd6920725d87f0b5365602a374e83fd3faeddf41f59554030ba1702f6b7bf5d2",
+    "bytes": 3869,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/rope.cu",
+    "sha256": "b8db3b2af38df9e64152e90b16057f51e501e64ddd648b0a5bf0417a688afd66",
+    "bytes": 23935,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/rope.cuh",
+    "sha256": "3df9fcc321844ec2ee763410d29f58734d6df1361233fa2a991afeec36ace640",
+    "bytes": 1984,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/routing.cu",
+    "sha256": "a759babb9a929f51e6df1fe7737d2427b326ffdae9619ae71310b44698e0c69e",
+    "bytes": 42688,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/routing.cuh",
+    "sha256": "32ed339a11b13b4b158e24872bb0a348d3d1804bde7df50b3b2d7dea4a60e1ad",
+    "bytes": 2106,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/sam.cpp",
+    "sha256": "beb0acef44f4e0eebff50a295e2b919467fa6fc369260ff0b12e06e8fac54bf6",
+    "bytes": 5494,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/sam.h",
+    "sha256": "051dd982307697764a671fa9855934fe9b03ec47738ffb4e45a6122212c0bf8a",
+    "bytes": 1040,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/sam_bc.h",
+    "sha256": "a0cf3423415951a928ba742a9934bd7d61367a9f26044e7a819ff354ec4f9a09",
+    "bytes": 221,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/softcap.cu",
+    "sha256": "32fe8c0c8bbd77de7724869ea7c250ed66399ad1fde803bd82e5f95b855900e9",
+    "bytes": 2236,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/softcap.cuh",
+    "sha256": "0ed372a40eb5cd5273e55d00b04622b1ee9abf105a2cd15172ba4e0e42e93071",
+    "bytes": 129,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/stloader.cpp",
+    "sha256": "2b9b4b5225ff32f0e79e8e97788ef69fea9b3328f6b18a6209f6cb0c33e9ad07",
+    "bytes": 23798,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/stloader.h",
+    "sha256": "b112f022a272d005d4c3e944bd5dc786a75aaa5029cd1ec9b811a62e0ac4fb0d",
+    "bytes": 2256,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/stloader_cu.cu",
+    "sha256": "a444e0aa2139daf7743ee63e110ace1368fcd781069080fba83a43e8259d3792",
+    "bytes": 1849,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/stloader_cu.cuh",
+    "sha256": "83761e3b66a98b41e1778a0de9a3096762f88a9f6012238ac5101ef7e7d0210f",
+    "bytes": 243,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/triton_kernel.cpp",
+    "sha256": "e569e6b6ec117daef107cd0c237382eeefb11c8dee770c69efa5f041076e4278",
+    "bytes": 1593,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/triton_kernel.h",
+    "sha256": "ea083972182a7120d4346e84040c0b4568c7578e84af719378ecfc314bb8153c",
+    "bytes": 1528,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/util.cuh",
+    "sha256": "4e8c7da6b47ca32cdb925348eb42a43cbb82d7edca13b69f29963bd5568103c9",
+    "bytes": 4830,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "exllamav3_ext/util.h",
+    "sha256": "1d683f6308d2c588434619c51df1c09ebc44ab0928ca2ed284f4de865d638f66",
+    "bytes": 8900,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "ext.py",
+    "sha256": "c0948d45cf09dd843e07c08e4b22296024d743b99746b4a8d77b934c3773d1a3",
+    "bytes": 5141,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/__init__.py",
+    "sha256": "d9a4cf94eee163cd3686cd39b8daf0faa344b5ddc628a68c1186fd9c4bb9f1a5",
+    "bytes": 172,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/async_generator.py",
+    "sha256": "f40ac017eb94f24efb0842024e2e4930a3e13d25def7a41f75b3e78665b79ee7",
+    "bytes": 7817,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/cpu_cache.py",
+    "sha256": "fa138c61c28c05b91ee1179eaa802b3e3fc04270dfe35dd10522a4fba8b52064",
+    "bytes": 15151,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/draft_confidence.py",
+    "sha256": "1b29a0668e766e957ee122b2628e9d582592b295182796e736305b5954600231",
+    "bytes": 4572,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/filter/__init__.py",
+    "sha256": "78865b5b4d42479c50e7a2193bace2a724da16fefa3b100cd8dc6effa99cf80c",
+    "bytes": 108,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/filter/filter.py",
+    "sha256": "c9cacc7c37c2353ed4ac7fc92e77b4ed13fecebac033b6f03895175ec94cd972",
+    "bytes": 6542,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/filter/formatron.py",
+    "sha256": "07c4ce3f19f3009dccfde4559e3ad73b4a020a68a1c3e08441d95b35eb5ccf96",
+    "bytes": 4928,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/filter/llguidance.py",
+    "sha256": "918e88a9fc876d8d820618a26b11873eafc6a8606c66dc816a7e2f65ceed48ea",
+    "bytes": 6506,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/generator.py",
+    "sha256": "8ff8b28fca7fd43b6884d789aea1bdfd31afb5a9bae642c1304a14e0ca3b1518",
+    "bytes": 66946,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/job.py",
+    "sha256": "0099c7e77eb14c7cefbccc2883948db80597a9eaffc60366c2d460f310d20ac5",
+    "bytes": 73797,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/loop_detect.py",
+    "sha256": "872242720daf1b0cfd857f46f3dd674f31093abe43df9d43361fe23188aec7e3",
+    "bytes": 5133,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/pagetable.py",
+    "sha256": "b70a050ed7edb6328f45a302101d5776a51900dbe998d1335ac6e556361906a6",
+    "bytes": 42851,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/sampler/__init__.py",
+    "sha256": "920d0855e8110e17ba31efffcc2c814fb91dccecc4bc26a4061416a4fb7dcbd6",
+    "bytes": 603,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/sampler/custom.py",
+    "sha256": "3015628de18f1ada4062904f1dfa2ba7039567bf9e3a9cd7423cf499674af0bc",
+    "bytes": 41147,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/sampler/presets.py",
+    "sha256": "c9991f300e8251a5b65eed5083462ecdb0aa7a27f89b99d5444884340f92dabb",
+    "bytes": 4150,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/sampler/sampler.py",
+    "sha256": "a53a545b5b9892595a5a3b7781e44034029ffe9d0e2d1a86dd2c086ad807ac94",
+    "bytes": 562,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "generator/visualizer.py",
+    "sha256": "0846ede59117ebe74effba4d187340b1899bf4a4ba96543c960fcf440f7ba891",
+    "bytes": 7810,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "integration/transformers.py",
+    "sha256": "a9ed23f7144f9cb399351974746f66ef1d11dc05e0689e3a76a72aac0a1d1829",
+    "bytes": 11183,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "loader/__init__.py",
+    "sha256": "23d9b8bb6d2cbddddf1e3f9fd62a6ee62667527f2c16219b0bd9e73fefa8603b",
+    "bytes": 76,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "loader/safetensors.py",
+    "sha256": "cd7231a14a24068921f3d2d3cd2fe18c365d8f1388f61570177f9e96ab5c3a5b",
+    "bytes": 32757,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "loader/safetensors_alt.py",
+    "sha256": "f78f7dbbb30c211984e1ff174c9a863ffa186d2f7d295591c26b72ae0bfdd1c8",
+    "bytes": 9750,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "model/__init__.py",
+    "sha256": "f9f34fe16fc32e68e4f5189fbd6cf901c38c47b1597cca177ed22a2a96d73397",
+    "bytes": 52,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "model/config.py",
+    "sha256": "6ec2b8d5306ce73f4ee81c142a21cb0786a7d5f723026291112401e5c3e05f32",
+    "bytes": 13134,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "model/lora.py",
+    "sha256": "50e51abd3006f6dc2cc38754755bcc120e995ed97438c7279dd99ebe82e0e755",
+    "bytes": 8026,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "model/model.py",
+    "sha256": "bdf8578d2b17a74904f815b58654f6671d6174e58dd5380e0fd9ae07bc4f29c0",
+    "bytes": 23762,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "model/model_ls.py",
+    "sha256": "0a9f165e734513c5ca3bdfe7830d3403c7337a8f05172aa9183f86ba636dd123",
+    "bytes": 11665,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "model/model_tp.py",
+    "sha256": "664a887d80bca8d388589e9ee87cc8fef5998825181d9638a93d57c2b34a473a",
+    "bytes": 29543,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "model/model_tp_alloc.py",
+    "sha256": "a38b269c965451535636fb2be83ede34291f68cf3caa96941373182d82345fcd",
+    "bytes": 7026,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "model/model_tp_backend.py",
+    "sha256": "7fd30b136dea3f837c82fcc289cae7e5a1834684a6418f8a3ce304c6d95abe50",
+    "bytes": 20106,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "model/model_tp_cuda.py",
+    "sha256": "158c230b445a726c44b7f7fc48846325e56cd59e90d3907dd56a89f144307d23",
+    "bytes": 2121,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "model/model_tp_fn.py",
+    "sha256": "6548c8bec67a21ea658c860c67a33b4795265924da4a89dca210261583ecce3e",
+    "bytes": 20773,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "model/model_tp_shared.py",
+    "sha256": "2745f4555e014049bdb3201a199ef29f2f59ce35a5f07fb77e7b9e4025a40f2b",
+    "bytes": 11367,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "model/moe_cpu_host.py",
+    "sha256": "356325a8a94ace7eaeed77172956c775a2917beba3778f396507eee3e6a71a14",
+    "bytes": 63828,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "model_init.py",
+    "sha256": "92d6a9afb2e4f4f531dcb71e5435bd9c8c01937833f2bdf9dc53c3953ae68f81",
+    "bytes": 19484,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/__init__.py",
+    "sha256": "61b53273c9cbff50809b576e6db929cc49e945067b8586271f9b2851406e2c3b",
+    "bytes": 812,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/arch_specific/dflash.py",
+    "sha256": "7a13478d3e677113d556ac447f67989dd4d4ba580a81006d6945533c436f858f",
+    "bytes": 3440,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/arch_specific/dspark.py",
+    "sha256": "d481c88df092b7f2d7975fd2ac6b3a7d21bf58a138f527e57f992bccc4963c52",
+    "bytes": 9745,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/arch_specific/gemma3.py",
+    "sha256": "ec7d1330c431bf374f4224a518f8364415dd9d60b9eef856685b8470781aebef",
+    "bytes": 1550,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/arch_specific/gemma4.py",
+    "sha256": "209acc013391de1f5bd43c9323128c0b9789a5b32e89cee4f5f67fbb6694c356",
+    "bytes": 8823,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/arch_specific/glm4v.py",
+    "sha256": "923c4cc77745f35ecb067021e18dcd380c92048641b4de32c7c4aacf310c848d",
+    "bytes": 6779,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/arch_specific/mistral3.py",
+    "sha256": "937cfb78065087d25b091c6f0c1c68ddcbc6c5b2159357b69028c01f0838ebee",
+    "bytes": 1629,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/arch_specific/muse_glimmer.py",
+    "sha256": "432dbfd9fa425a90d441b998a2a7c66caa2dba76761448944163efffbbefb9b3",
+    "bytes": 7718,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/arch_specific/qwen2_5_vl.py",
+    "sha256": "3a601c724c4743d4321fdf0f9ac5c4c523bb017d2088a2ed816175e851080ffa",
+    "bytes": 3915,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/arch_specific/qwen3_5_mtp.py",
+    "sha256": "03a807baeb4b23f96788d0df35d302ed083d854392bd6bb97118231692dc7303",
+    "bytes": 4522,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/arch_specific/qwen3_vl.py",
+    "sha256": "e1b1b901ab61a0c4eafc444f08bf23b05e19d13a0b3c9640d6b1967be70a04c1",
+    "bytes": 9249,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/arch_specific/step3_7.py",
+    "sha256": "34011de38134b71522393abcdd2ae4fef249a058e0b4d44a5e45ced4588ae56c",
+    "bytes": 5217,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attention_fn/__init__.py",
+    "sha256": "f64c7efb275d5fd095fb942369d667f38a72aa9cbc6b349df37741fd3c274ba6",
+    "bytes": 35,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attention_fn/bc_attn.py",
+    "sha256": "74b33616419da68782a25220fe0e7738e57d98eaa78f173fd1a82ccebb4bf1bb",
+    "bytes": 23166,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attention_fn/bc_dsa.py",
+    "sha256": "0bd056c67880ce180c58478af94c66ec88733d32e6b4a8d8950c8a7f2f051182",
+    "bytes": 30750,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attention_fn/bc_mla.py",
+    "sha256": "4e0a01851fe421c85dd70b6619d6fb326d1343ec5ea97b29fa3916e566bfd072",
+    "bytes": 27741,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attention_fn/bighead_scalar.py",
+    "sha256": "7a448291d5e1c92690c665fbe033d62c3d87f9daf7f2b8fc233adef0c018f0cf",
+    "bytes": 1622,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attention_fn/common.py",
+    "sha256": "f964b67264375af19f7ce78a6ad98a26f743884c2bb2c333b75729e91f217d61",
+    "bytes": 4633,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attention_fn/dispatch.py",
+    "sha256": "a5741fc948808c34b2d7f408c2e2d4dd14d478149c65e5433d435cfbeb852ba6",
+    "bytes": 8293,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attention_fn/dsa_triton.py",
+    "sha256": "9fbc732305c0e9423764622c8360fcf505e1e26475ba750b86020339eb3b5669",
+    "bytes": 48570,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attention_fn/flash_attn_2.py",
+    "sha256": "7a0c3e8fadcd83dc1849dc9da5bd8cabc8c520f95930365508dad290025491fe",
+    "bytes": 2654,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attention_fn/mla_triton.py",
+    "sha256": "c2993abca7996f2c3117dd57e3c005bac7c7d09523ec6ff93b94cb4b47b2cf0d",
+    "bytes": 56192,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attention_fn/torch.py",
+    "sha256": "ea95fbdf55a161cef77833addd1397b0c5b465b296dac9d714ad1a61eedc3a06",
+    "bytes": 5701,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attention_fn/triton_paged.py",
+    "sha256": "2fe30fa81071566849cb08c2340787ef81891887556452905969a1d27c7d213b",
+    "bytes": 93350,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attention_fn/xformers.py",
+    "sha256": "95637a29a4190e7a27615d005e89aa17c1a4614d0e5d55d14a9566503a7b776e",
+    "bytes": 6415,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/attn.py",
+    "sha256": "12f7524a8c96e56386631f48edc4fe3764305c51de246d787997b4ea59ecdf7d",
+    "bytes": 44126,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/block_sparse_mlp.py",
+    "sha256": "d8f6ce2be43f987f05d385a3e9e226174a3d66814a5407b68891926e7a410df5",
+    "bytes": 73642,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/block_sparse_mlp_cpu.py",
+    "sha256": "f36b6003915fbfac2a5501a1a0228e8064feff62b36bdd7bcf6099b9ea603127",
+    "bytes": 37790,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/conv.py",
+    "sha256": "109e6618ae012b887dd071cf965b5f85623f030fedc2fe14e0e226a58109dce3",
+    "bytes": 3971,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/dsv4.py",
+    "sha256": "2a5b81af0bd0024a1eeb80d9ac134571805087a0a3c4325785a729319d8ae11a",
+    "bytes": 81410,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/embedding.py",
+    "sha256": "d3f6a56f206c917f215c7c65972aacd008e8d2bfda64825f406e085b5fec458d",
+    "bytes": 7595,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/gated_delta_net.py",
+    "sha256": "daddf432e5f3f232c2e0118190f9753ffbfb05f981e25e35d32cd7575ff67c74",
+    "bytes": 44959,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/gated_delta_net_fn/__init__.py",
+    "sha256": "6ca4d4f576ef93fd375d79b53890586934f5d374191b126f9a171e2e25133ba9",
+    "bytes": 91,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/gated_delta_net_fn/conv1d.py",
+    "sha256": "f5580776ec30dd77af523577066dac93770d13e2abcc8392b64f0e790e6823c1",
+    "bytes": 16402,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/gated_delta_net_fn/gated_delta_rule.py",
+    "sha256": "3caacb713a8ee483647205b8646b6aa90088c2d42e9e51a130a3b804a65f5abf",
+    "bytes": 5726,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/gated_rmsnorm.py",
+    "sha256": "a30212fe4e0f4335d7b32c041eede5e8d34936e9f406b8338427c8104b57a453",
+    "bytes": 6947,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/gather.py",
+    "sha256": "f87f5bede812d3eea38b346ee2dc44e01f0806aa78c8c869c2d7273e8cf383da",
+    "bytes": 1824,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/hyperconnections.py",
+    "sha256": "863824f682f9c2983f62e428b4359543a01c3ff99da8bd5ae196bf2b76077513",
+    "bytes": 13493,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/layernorm.py",
+    "sha256": "e423564b0853c8f75ebea41cd4a4c096cc3bcb571f8bdd3cddecafa5819961a8",
+    "bytes": 5558,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/linear.py",
+    "sha256": "affe202b63258cd6bbfdadacf12a0cc2fc09d6ba729f34c57b05402b01da0808",
+    "bytes": 38344,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/mamba2.py",
+    "sha256": "5026c9fac9f24d2bd3d128d5155490d56b8e02264679c7d93a5f71846400c109",
+    "bytes": 30493,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/mla_attn.py",
+    "sha256": "c6786d1d83d289123ff5c356a538668aef556ccb94954a8e394fe6a82748c4e5",
+    "bytes": 43945,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/mlp.py",
+    "sha256": "29b1963436d3ff20d74c95de1073fa0e0af6dfe9577b574da2140dbf622c9244",
+    "bytes": 34399,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/module.py",
+    "sha256": "b0337809e63ebf38c9c4ea812fee94f3afe4e8eaeafc6346f2957f676ff99699",
+    "bytes": 5893,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/multilinear.py",
+    "sha256": "64ef9987fb63a6f2144979aec349c428d7a56f974b418d85c92a2dae50974e5f",
+    "bytes": 1755,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/pos_embedding.py",
+    "sha256": "3af0c9b9879c314f083250b33d89af2a53302a8bc73c967f3a1a547e14a2bd31",
+    "bytes": 2385,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/quant/__init__.py",
+    "sha256": "018bd9217895cdbc146a94ff03835ffdeda0276d1ad6f8e038e5921d80346b3a",
+    "bytes": 80,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/quant/exl3.py",
+    "sha256": "bdc97f00a48ac7fe86d87e2b565643b98fb2cf5fbabb21855b18f84b80240f9c",
+    "bytes": 16034,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/quant/exl3_lib/__init__.py",
+    "sha256": "c7ceae55e8679d891c15c0d92d8f34e144f5963d92558c68a690558f8b83da3b",
+    "bytes": 56,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/quant/exl3_lib/quantize.py",
+    "sha256": "65d8a5aa22c17b9da6575410ccd832d0094cf4b00ea154377e9b35f6593b8fcd",
+    "bytes": 65913,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/quant/fp16.py",
+    "sha256": "8ea6803dca47b16f22d573effe08e2809be277c66bbb8801424f596cb336f398",
+    "bytes": 9277,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/rmsnorm.py",
+    "sha256": "1dbc0d8902a53a1a89c5fc3f6d716068d4ad3bcd796ae396abb4acf3af64730f",
+    "bytes": 8001,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/short_conv.py",
+    "sha256": "06bdbeefaa063f04a8f95ec4a406c282b5f859f472f957b5c1507325cd866530",
+    "bytes": 12210,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/sliding_attn.py",
+    "sha256": "1214cb29054ea1927d3904530719620a43ca803b811213d9f906e2c0574ef59f",
+    "bytes": 44082,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "modules/transformer.py",
+    "sha256": "7796bf2ba05ecf89bee3dd69f28e7bb049c41d276b1031c802f6b62e194b2af0",
+    "bytes": 14738,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "tokenizer/__init__.py",
+    "sha256": "3da010bf8db71457430a1338eae0bc861d4c7abc29ef00e86c9c18343754e821",
+    "bytes": 71,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "tokenizer/mm_embedding.py",
+    "sha256": "6ff779aaff485cdaf93070bdf9ebacd2f93ff74a15564bfc5f450b7346095724",
+    "bytes": 4397,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "tokenizer/tokenizer.py",
+    "sha256": "76586c018a84216cf882e8eb25b7c66014abe6470eff08a82afdd12038edfe41",
+    "bytes": 30852,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "util/__init__.py",
+    "sha256": "eda103a78e1a69f9e9938251bc54bbcc170d3834c50164091f4565af35b7b148",
+    "bytes": 41,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "util/arch_list.py",
+    "sha256": "fb43bf5e4ce9b9eda5df4416aa4f382f05258b04b9b5e6a321bf84a2ffed0a54",
+    "bytes": 1592,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "util/debug.py",
+    "sha256": "e09ca47674ddbc53f8508636ca74f9e4388db5630265e9b5960541de5ca080c5",
+    "bytes": 858,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "util/file.py",
+    "sha256": "fe28e5cf31d5573dee4254ee193f6ecb42f222e2796f6dcfd0e23b72b099691c",
+    "bytes": 4788,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "util/hadamard.py",
+    "sha256": "e59cb2d23b87c12f65fc48ff6b6e2cb411476700d9bde8a72215aba87b0acb01",
+    "bytes": 4053,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "util/measures.py",
+    "sha256": "d759f208244b8c3a7e8271ed96e4b2ff3c01d9f2788840012555725d9b9c7c75",
+    "bytes": 11142,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "util/memory.py",
+    "sha256": "74f568db6cc2019808a010bc6eb4c60aeb75f32542e11d78ca4cd19ec0df3c43",
+    "bytes": 8818,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "util/misc.py",
+    "sha256": "3af03a57d8ae8d158ebbe381b0faa4bd1e04a71ee40205aedb071aba59f2486d",
+    "bytes": 8824,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "util/profile_opt.py",
+    "sha256": "7946349b928086f3c9de74e83070cc5519034a0d34ae92a8623fcdbb1e71e71e",
+    "bytes": 258,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "util/progress.py",
+    "sha256": "08cd50f8149fce57d3154805d88efad31c659fdf195500bda2b44744eb8e2396",
+    "bytes": 1551,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "util/rope.py",
+    "sha256": "29000e5da82dc2ee3e9d32be0b61c2e82b4da34878979b38a7ea99a5ff05c533",
+    "bytes": 20876,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "util/tensor.py",
+    "sha256": "ab363206ecd71df601e2db8eac17fc4d3416eb3a6b1fd3ab78c4b2c581a82dfe",
+    "bytes": 8568,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "version.py",
+    "sha256": "9458ea486933c425c0a2cfdca5ffc73b34f33b2b383052024caf90eceaba586a",
+    "bytes": 21,
+    "source": "EXL 1.4.4"
+  },
+  {
+    "path": "__init__.py",
+    "sha256": "2f8d730c9075a5ffc7c1eb16d2b5f8f1dccd207daba4d7deb85d999442d125ed",
+    "bytes": 1930,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/architectures.py",
+    "sha256": "85350a0f7db8a34d21d78595d21950d10013ae038ac519f57a5708c40745bea6",
+    "bytes": 4259,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/deepseek_v3.py",
+    "sha256": "75ee4abc3a5a5ba0b7e5e3daabc2cb08b151356e675b075f1f05a00424f373b6",
+    "bytes": 10499,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/deepseek_v4.py",
+    "sha256": "facc26e27e2c51c7699333b35a1beec0fc40fc00a6418f9fc2b73d6b13963b3a",
+    "bytes": 14703,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/deepseek_v4_mtp.py",
+    "sha256": "ea037d5077b2b3f89ae57f883c95471c802c83fa66aa13c431b908d08a0edf6f",
+    "bytes": 15709,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/deepseek_v4_vision.py",
+    "sha256": "e819e7babc514a48a63f7fcc087d10db73b600d6d99edf804d07365471d621c5",
+    "bytes": 11778,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/dflash.py",
+    "sha256": "07f2fd7a68d1db70d70d222a20ff31ceed0e82a321dc036432e687301ef1884c",
+    "bytes": 13675,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/dflash2.py",
+    "sha256": "ac1494f2e7a046c899b89762bf0654062a5d771eb938530601d0b6e7759fba1d",
+    "bytes": 14223,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/dflash_laguna.py",
+    "sha256": "bd2da896f55bc770daff1e4d4cd7db6d5d0c5861910cfdcb60e94937a503d541",
+    "bytes": 14245,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/gemma2.py",
+    "sha256": "070276395015fcd4fdd53f5864445f6b105dd0dab166b0309d74854751eef05d",
+    "bytes": 6751,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/gemma3.py",
+    "sha256": "6faf8db4cf64a52453fdf83ce5d91d3f2188418763469bdd5f96bfa16be84fec",
+    "bytes": 23277,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/glm4_moe_lite.py",
+    "sha256": "6ce4b9d3e6c4a0e1a1f77a67ad8118fc9b6ba4bc760f12d5e45364d1d94a1335",
+    "bytes": 11315,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/glm4_moe_lite_mtp.py",
+    "sha256": "ddd242f2aad76bc9eadcc371f05c8b2ce062e2462624983645bb75658a48b1a8",
+    "bytes": 10324,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/glm4v.py",
+    "sha256": "321bd67dbcd0f04f192646f4ca8a25d5112ddf291e6cbc7118e01586f2685c88",
+    "bytes": 17087,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/glm5_next.py",
+    "sha256": "7d247cb1e8c8ac3a74b1e5fe6e0b02ae4aa8182e3a22a2ad2a1640f660849871",
+    "bytes": 21496,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/glm5_next_mtp.py",
+    "sha256": "9fa4a63829dc5af736dd73e148d2541757a797af87a70a96c6cd4227c27a34d8",
+    "bytes": 10810,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/glm_moe_dsa.py",
+    "sha256": "9add3beb3bb9d3ad63b0f7ce7cdeee215f5bd25f1e1adb60cafe45c1cfcac580",
+    "bytes": 13046,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/glm_moe_dsa_mtp.py",
+    "sha256": "187b40e026e09c8832f14e3b579bc8c72227fdffa7e4ce3cf74aa9c7dacbe183",
+    "bytes": 11213,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/kimi_linear.py",
+    "sha256": "6d0f61da778258c4fdccf617c6d12a72c15e98d2a76b426f79583502ce0e665e",
+    "bytes": 12843,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/lfm2.py",
+    "sha256": "298b34a2f73707fcad0d3217d3ad8bd77d5568abd0e20400af80314f56188178",
+    "bytes": 8644,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/mistral3.py",
+    "sha256": "086cc031c6112a763bf586626b5cb80cb4e9eb0e6d8ba44d909f8619f1470db7",
+    "bytes": 21690,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/mm_processing/deepseek_v4.py",
+    "sha256": "6adc145ad09f7b42dec0a3db87be1c58cf29b2c1cd886cc5da719c09ed60fd91",
+    "bytes": 4474,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/mm_processing/glm5_next.py",
+    "sha256": "43ae6138b567b2106d7e0bf2cc637024c2a40928bc24418fc78719cd5a265eb8",
+    "bytes": 1665,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/nemotronh.py",
+    "sha256": "ac6127127f8b840b663dc09c15ebf64746dc52b41e4991de5e9195e6e4dddde1",
+    "bytes": 12676,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/nemotronh_mtp.py",
+    "sha256": "a0a1762760b37685b4ada2ea8274ada03d8d1c871aff176fa98d98ca511f70b6",
+    "bytes": 6138,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/qwen2_5_vl.py",
+    "sha256": "317d23a792b9f29a28ee66b52bc4a3cbef984eb39f81affe851504df83b7da05",
+    "bytes": 16647,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/qwen3_5.py",
+    "sha256": "e437c0e8ed0e22b0ec26218707cec987fe09c50563cf01c338b58c413e7f8d6a",
+    "bytes": 22315,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/qwen3_5_mtp.py",
+    "sha256": "1daa509dc4ca32448c9ff126850cc1704d05d95306c28d8136dca01dd5c90553",
+    "bytes": 10699,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/qwen3_next.py",
+    "sha256": "902317e70574dbe0094ba5f71c182f25e9130452437e212f8d003e186bb81076",
+    "bytes": 10540,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/qwen3_vl.py",
+    "sha256": "0ee333588bfb99de9c638820103ae12b318be54c73686dcd478be30cd69ac7cf",
+    "bytes": 15531,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/qwen4_exp.py",
+    "sha256": "5c0d7c88f6d73229527726aa9f2ba61bdd948f28467d4f6879b815d7f3107926",
+    "bytes": 13075,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/qwen4_exp_mtp.py",
+    "sha256": "777df35a7df89ccf2af493ef240014faadbb39400c59f40a0dddda200e4f70a5",
+    "bytes": 7493,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/spark2_5.py",
+    "sha256": "3afb0307d7f35aef00f31e911d36be76fb29e8194e88894b8bf695dd3f774d7f",
+    "bytes": 10831,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "cache/cache.py",
+    "sha256": "8a51fa9ee050ce89eda32966623df8c00a47f5c79914aa9f74a684ff45787a83",
+    "bytes": 13510,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "cache/dsa.py",
+    "sha256": "a0a405dd2c5a74e5bb238974b8dbf848b667db46fe17a65944af598e16332a35",
+    "bytes": 20521,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "cache/mla.py",
+    "sha256": "3eaa7715e7ee4c8c7d33b34369f803a44e24cb48c1ab333946fcdc3718cba6e7",
+    "bytes": 16196,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "cache/qsa.py",
+    "sha256": "008fc88e727f7fe00a1b68d49c75db9c487aa263b2420565b749f6f074ebea81",
+    "bytes": 4090,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "conversion/allocation.py",
+    "sha256": "6884cecc80a64b50a4943a7291ffeb3ac4ed13a1e4386c08da9172703c6359f6",
+    "bytes": 11270,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "conversion/calibration_data.py",
+    "sha256": "3977c352cca0195984ac1514014238a5c8c85fb8f6b05a49a463774309b085da",
+    "bytes": 4954,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "conversion/compile.py",
+    "sha256": "9a4ffca1d91dcca3895783932590522db2b818bd61261b3306af8041da40134c",
+    "bytes": 9505,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "conversion/convert_model.py",
+    "sha256": "ccd74e26fb36fc7a94efcdb8a7b1bfa07ca20117b087ac16dfe45d7263695d54",
+    "bytes": 72854,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "conversion/measure_model.py",
+    "sha256": "363f188cc92847b40ecf1ad575c90d4008f2e49419cac95e3e9e89a15b6b17ec",
+    "bytes": 17601,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "conversion/ngram.py",
+    "sha256": "a1e17da3cfd3f6335aa7b9abce72fbd26fbcf4e8fe3db80ffb1c4d2e8a04c82a",
+    "bytes": 28791,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "conversion/quant_config.py",
+    "sha256": "862f5a437cb1827c652903b336311b2eae3adae0443fa64f429a3ba5c14076e5",
+    "bytes": 2298,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/bindings.cpp",
+    "sha256": "dc8adae42880fe006ed1ab871faa3351ab4bfdc1623ca0a975ce7cac6c3d4a45",
+    "bytes": 15705,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/cache/q_cache_kernels.cuh",
+    "sha256": "425c4ec58002bfcea865ee6b670dd42f00d806d4d6aca95ed0b6d2c17ceeb43a",
+    "bytes": 16346,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/cpu/moe_mul1.cpp",
+    "sha256": "55b97cba51f53892e7518bd5932289cf5ba1f5dbbc3c75ad7d2dfd0ca8c19ca3",
+    "bytes": 114536,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/cpu/moe_mul1.h",
+    "sha256": "9e3114f20a4d46582203a12e0a97fbba480e67f3a308da81de5829d78ce2420c",
+    "bytes": 4950,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/det_gemm.cuh",
+    "sha256": "b4d30104328b4628768b4b4ecc73ed0a7b20c13cd7060948b4f909c3c8eee767",
+    "bytes": 8593,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/dflash2.cu",
+    "sha256": "7472f3db691e97b63595fc21b24f339279176997affa2b3f581edea997187930",
+    "bytes": 23636,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/dflash2.cuh",
+    "sha256": "c658ca4bf89900821c4695d7bc80263a2950c8c9fdbf3cc0836baae1f0182915",
+    "bytes": 679,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/dsa_topk.cu",
+    "sha256": "53f63e293c9052dddcf3da2aacd8d272c11d2eb78bd5efcd0e5c3f916b1d4f70",
+    "bytes": 36561,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/dsa_topk.cuh",
+    "sha256": "2f7c4c3ebf77dc37d1409e8b4e5567670177b5ec1f5a5c96589e2836469d23c5",
+    "bytes": 992,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/dsv4_compress.cu",
+    "sha256": "2aeb9c9cfdf53fc49592b54231b21b48be3660ec6805df883930d347b90f3780",
+    "bytes": 20730,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/dsv4_compress.cuh",
+    "sha256": "51a1829e59b7bf4544cc0d282a1266ebb0de1e3618f6d1253fa04020eb042542",
+    "bytes": 1895,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/dsv4_pool_quant.cu",
+    "sha256": "327e1df03759bca7539695a5ae1c2853dd907964e246e031857364975f20f97b",
+    "bytes": 5694,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/dsv4_pool_quant.cuh",
+    "sha256": "9e5dea6f27d21f7cf047c96f2c44a590268a67f8ddc15a7af48b6810f028f177",
+    "bytes": 1662,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/gdn.cu",
+    "sha256": "a8c0aeff7e87eba29dbf9b77be9b5b19c5e312a935fd766dc56c5e79d670e5d6",
+    "bytes": 77402,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/gdn.cuh",
+    "sha256": "5475f304023f57ca133a46a4a9e7eec418f17b1a00172e9d4360acf2ebe34f6c",
+    "bytes": 7805,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/generator/cache.cu",
+    "sha256": "f54ea4433876634d2a30fdbb67d6f08b6dcf1c62e5c5ab19b8657530ba04f927",
+    "bytes": 9617,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/generator/dry.cu",
+    "sha256": "675b540448353e2ff93c82a16e0d6b5af6f371f25cf3d8d982efab4d64910bd0",
+    "bytes": 7470,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/generator/dry.cuh",
+    "sha256": "6f1003a20ffb8349bcda1b556a9ef4bbe4e6697440b71fba23d87ec14f1d452c",
+    "bytes": 430,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/generator/gumbel.cu",
+    "sha256": "309a26bd6487b2245ae40a7b4264a5dc0ea36c5501ce1e539e2b3eac5433bc5e",
+    "bytes": 4346,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/generator/rep_pen.cu",
+    "sha256": "534a3f6d997fa4413d8d599dc67a76c2cbff513b743a4900f95995bae6203a4a",
+    "bytes": 7784,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/generator/sampling_basic.cu",
+    "sha256": "cd0b5ef7b7c16baaf992741958e6f72ab655da021cae1fc268175284acae1b6b",
+    "bytes": 5117,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/generator/strings.cpp",
+    "sha256": "1103654359f2588ae623d77d885ecf66f6bceb51c9fb7461ad9195a6ca192d68",
+    "bytes": 2696,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/graph.cu",
+    "sha256": "ed16fc673ba9e87b62eef6a4730f5d4da5a00ed4ff42fdc910474e268260f981",
+    "bytes": 7600,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/hc_mix.cu",
+    "sha256": "8ef9ee0660a38d219e431b2f06063b46b6fa2bfba14b121ecdc662fd4ad8265f",
+    "bytes": 46287,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/hc_mix.cuh",
+    "sha256": "b8d5ad08b7b2f65921384903567d6045c8f1ae281ef8d384126b2e7402809884",
+    "bytes": 1632,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/hc_mix_tiled.cu",
+    "sha256": "510e7e23ec1db51ca5ed0f53a04c08a22edc26fc281336ad10e628a17cc6577d",
+    "bytes": 28188,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/hgemm.cu",
+    "sha256": "4c914fa73e2b6d560063a548cae7118beebea2dcc0ee3903df6010ca2530671c",
+    "bytes": 5359,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/hgemm.cuh",
+    "sha256": "3af213add25869ea11f5ac8f7f491b5edf56c720f81e82dde15de15473be55b9",
+    "bytes": 1032,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/hgemm_f16acc.cu",
+    "sha256": "8c8d91e864890701227e35a7f57d5b11b61e75d08b6de9d30da24f10c2f83e16",
+    "bytes": 23241,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/attention.cpp",
+    "sha256": "8482c30685d603669f1b5ad65968ba8b768df88507dd4d614e8704ed84f51ba5",
+    "bytes": 44772,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/attention.h",
+    "sha256": "eddfa5e9ffd956c8bc15a3e37125a49be93efa8fc1c7fe90962fe58c26708c3c",
+    "bytes": 14652,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/attention_bc.h",
+    "sha256": "2a0a9d5166c37f4fc5d19ded8ffab2c9c4821662e447be68a3774846d6fbb2a3",
+    "bytes": 4962,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/blocksparse_mlp.cpp",
+    "sha256": "383fed47b3a4c8c162893042a935b9eafdd33b2ea336fded25a0c998f5a50c38",
+    "bytes": 21899,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/blocksparse_mlp.h",
+    "sha256": "685cbcb512c4ed139a637b5d5e1e41d8b4e420af03b3df27c6cfe8236d7cf891",
+    "bytes": 6593,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/blocksparse_mlp_bc.h",
+    "sha256": "9580aa6acc591bd9d018a3e10569dc4dfa47174afd4ee292f8d9bbc190253a0d",
+    "bytes": 3026,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/dsv4_attn.cpp",
+    "sha256": "b207756a19935ae351255dcca87bdf14f4b1b26e419c2995d42e5b7c0f6df417",
+    "bytes": 30434,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/dsv4_attn.h",
+    "sha256": "4a7c6ba162bb7597915efdd91c61b5c304b6448af087e89cf027ade1f967c1b6",
+    "bytes": 21252,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/dsv4_attn_bc.h",
+    "sha256": "006a1c8ff7461b066c804fcd53beac0396fc9be8c55f1a7c6113ab3ab26cf289",
+    "bytes": 3003,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/dsv4_compressor.cpp",
+    "sha256": "e0a17895a8ce3d5a1729f48b29012a8f8c175babbdc7de074edb9f4579202c83",
+    "bytes": 3750,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/dsv4_compressor.h",
+    "sha256": "88a19e66ee51f8c758ef0172cb2a4fab086377a67ddc565701d26a243ca12ff4",
+    "bytes": 4780,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/gated_delta_net.cpp",
+    "sha256": "92d28d3f70cc365b27edecdadb75d2eb8b7430cb2290412fabb52daa9d2f42d4",
+    "bytes": 21532,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/gated_delta_net.h",
+    "sha256": "f48cbea7f87f01527ca1b21cae8c6a9d3f6b076bff302ee13dab7e99e673687a",
+    "bytes": 18003,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/gated_delta_net_bc.h",
+    "sha256": "a6504e08a0d30f0a4e3550082774b61937236d4969dda7c666211fc84a6d907f",
+    "bytes": 5987,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/gated_rmsnorm.cpp",
+    "sha256": "4985e2ec6543e28ea1c089d1366c2baaead26112d8b8ee55d4e19d2d23121787",
+    "bytes": 615,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/gated_rmsnorm.h",
+    "sha256": "381f9ea6019b4427e0826b56d6560234173b310fa34856f79ced55d628adb678",
+    "bytes": 1046,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/gated_rmsnorm_bc.h",
+    "sha256": "cf2c0a92179755992e2a00600cc16113d6dce3d408ed0d8e1a609bf78fb92f2c",
+    "bytes": 432,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/linear.h",
+    "sha256": "021b53f69bafe5fd4f97480740bde403fbcfd76c9865c93fd87737b8b04775fa",
+    "bytes": 1566,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/linear_bc.h",
+    "sha256": "c01c627f421f19cd79581244cc8579c7f1910b38d309cad2e109b1fe995e5c67",
+    "bytes": 846,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mla_attention.cpp",
+    "sha256": "ba01b5b4158d045a16146131e08cb5e89f09c2cc45aa8849f7919bfbe49955e3",
+    "bytes": 43982,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mla_attention.h",
+    "sha256": "bc322abdc2115b72a593ebbdb73cc6016b6012515e9c40ed42a4cba7485841ed",
+    "bytes": 13870,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mla_attention_bc.h",
+    "sha256": "c0d8b47aac2dd296a459d6f719987b2678427e7fbcf04c98df8a892920dfaab4",
+    "bytes": 3650,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mlp.h",
+    "sha256": "837525971aa29bffdff4b95bf3f17ff1a20dd63ebc6cf5b4fe5cd212680d6cf3",
+    "bytes": 5942,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mlp_bc.h",
+    "sha256": "c1a23ac963484eec670d8e83b61e62763397d846a2554e71ec1442a15948baea",
+    "bytes": 1688,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/moe_unswizzle.cu",
+    "sha256": "0defe970e53e7e40749cac6b0878f4595c121cb3ac3f777b3df79ec8fce4dd19",
+    "bytes": 3414,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/moe_unswizzle.cuh",
+    "sha256": "1f590400bb888011f87a6663fb507586959822628df0234ba8a8b7a1c8479de3",
+    "bytes": 585,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/ngram.cu",
+    "sha256": "2c6e1ee729cda5279bed451e550497e769034ce622a0168b715f73d585a2b183",
+    "bytes": 14846,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/ngram.cuh",
+    "sha256": "66abc09e148e34fdbbca0411f5e129cf801619e0d4b0cbd4a29d0a78847c942e",
+    "bytes": 672,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/ngram_gather_win.cpp",
+    "sha256": "e7db9ec4b5c86267e5af2d54fba0af73a5b3abfbb8da55b730f69ce2724f4442",
+    "bytes": 13008,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/norm.cu",
+    "sha256": "c1487e6972f2cc3ad15d0a05873d1ca60fc195a95820560c1d6553495f7d1c1a",
+    "bytes": 26690,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/norm.cuh",
+    "sha256": "89dcfc9f374a3f30af9bbe5df44c8e8e62bc2f8646f4769a9704ead4a71edfe5",
+    "bytes": 1394,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/parallel/all_reduce.cu",
+    "sha256": "bd30dcb2691e7b30c852feb8c7ea1c4c781d3960ddbaf8457a9ceb989aec9a0e",
+    "bytes": 10334,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/parallel/all_reduce_cpu.cu",
+    "sha256": "9bb7798d123a5c3a495040a280a574fffc41033595d0f89462f4f979956624bb",
+    "bytes": 25199,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/parallel/timeout.cuh",
+    "sha256": "6e980ce7006ae077c40643f5020ab5518eaebfd7bf0ada8b54ca90f4d5e474f5",
+    "bytes": 910,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/ple.cu",
+    "sha256": "382b33ee05ddd34fa3caae23f1819493f0c1410943edade2947088b204d42bcb",
+    "bytes": 7727,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/ple.cuh",
+    "sha256": "1bc63f39a9bae8fb04257cc1a65f007b417210451f26ada804a66f5907886b70",
+    "bytes": 804,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/bits_k.cuh",
+    "sha256": "0fc3348a7e311557ba27ffe30752a10d9def349c25694f18aafefa074e385be3",
+    "bytes": 910,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_h1.cu",
+    "sha256": "ac01f9d43c37b606529341c856f129435851e881a3d0f5b9919f35e66b508685",
+    "bytes": 288,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_h2.cu",
+    "sha256": "e2a27045cecfcfba459e7492a39bbdeeabf8f5355f96383e3df78de10242f137",
+    "bytes": 288,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_comp_unit_h3.cu",
+    "sha256": "f1267ebe622a615b5a84081cc5d7f873942721282185387f2c37714eceb8c0bc",
+    "bytes": 288,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_half_inst.cu",
+    "sha256": "2fd95839b8750e39f29f56f7d20f561e2e2c8ac61d18af93b0bde4ee1a680067",
+    "bytes": 1100,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_coop_h1.cu",
+    "sha256": "4203435ed491454a3523f7dbea16161642ccb7821226cbee5849d47f03453e23",
+    "bytes": 538,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_coop_h2.cu",
+    "sha256": "cc9490141c6b1f0834c4a93df3b22c127395cf844a41233b9813b55e77936a79",
+    "bytes": 538,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_coop_h3.cu",
+    "sha256": "c5d50556d06cfed4a56357c7711a377c5a04d8d9528ea73f12d0f7a90b345328",
+    "bytes": 538,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_sq_h1.cu",
+    "sha256": "4b98f766f5cd9d19159124cbe67fbef198ef9c105fcb7a49cfc82950d61ccbea",
+    "bytes": 727,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_sq_h2.cu",
+    "sha256": "0723a2f67ecae11959ae08dbba81e95f2e1d15d8b825d89ba12c01dff73899ea",
+    "bytes": 727,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_inst_sq_h3.cu",
+    "sha256": "4952733331c0de49ba093f81ab300b0f23346a5858fe6a67c7a9837986d89216",
+    "bytes": 727,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_gemv_int8_instances.cuh",
+    "sha256": "2eb377be7bb5e5b96c5dd4d2f07128b628dd0f6f0f759d48f3bfacb292b622f5",
+    "bytes": 1497,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_coop_inst_h1.cu",
+    "sha256": "a93919d32cc49175ee00ff451491e2c78854c332a1ca3b9685b979a3490db213",
+    "bytes": 138,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_coop_inst_h2.cu",
+    "sha256": "e26e3feb3afc25cfe11859c5aaea157dcbe414fdcfb9c0bd97c2a83c86419c21",
+    "bytes": 138,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_coop_inst_h3.cu",
+    "sha256": "4fd15ee98226832f9208e7a60f6ad1b74f64d665c890704039caf3c43ea441cc",
+    "bytes": 138,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_coop_inst_k1.cu",
+    "sha256": "90cde6d99655d6fa5acf250f2b4fe0204fc67cc3306fd35b56603381d28bd10d",
+    "bytes": 109,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_coop_inst_k2.cu",
+    "sha256": "41b394304b3c22b674f71f9da2e35a2b33be9b92bb53d14b959994e6a7b2643f",
+    "bytes": 109,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_coop_inst_k3.cu",
+    "sha256": "e95124e11496a6528f2efc23a797b074f31169cee5e26bb166d8052bae087767",
+    "bytes": 109,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_coop_inst_k4.cu",
+    "sha256": "77d9af87a3573118eaa3698b5efe9e715b5249932ff0faec15ddebec9926960b",
+    "bytes": 109,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_coop_inst_k5.cu",
+    "sha256": "ec171b52e30d3a624a306a43143d16fff310c183973376a8860917d6b436244b",
+    "bytes": 109,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_coop_inst_k6.cu",
+    "sha256": "8460e611a36d9dd71ca5919c6748f22915cfd95d29e1fa50195b0300bacad67c",
+    "bytes": 109,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_coop_inst_k7.cu",
+    "sha256": "99c90885b51e22bc3b664be600cd2410b361c5476a643457af2de7c6309b827a",
+    "bytes": 109,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_coop_inst_k8.cu",
+    "sha256": "52cddcb2cee7d71e24c3b86c9f177f267385d45ebe479300ae6f55baf77d9ff5",
+    "bytes": 109,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_coop_instances.cuh",
+    "sha256": "8d16a4e40b04143d78415f6274f3ff004bf776ae25e2d0127b3150d8e0ceb8cc",
+    "bytes": 3626,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k0_n128_cb2_m32.cu",
+    "sha256": "9e6c95c67b0214141672a42b211c23629d41364ae4ac9e89751338390d263079",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k0_n128_cb2_m64.cu",
+    "sha256": "cd9bf57a752e84d90efaf53616f9c114acf276f75e81e3d54c1690ccdafac437",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k1_cb2_m32.cu",
+    "sha256": "38d0422eca226660089670eb355f53b9a263442623a8405fbc89b500f88b8173",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k1_cb2_m64.cu",
+    "sha256": "070f9720cb76d8dc0367cf70125b8dc23fffc55b95a7ea63e7e52a761fd1305a",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k2_cb2_m32.cu",
+    "sha256": "b767ae960b517a440eba8c5d108559001f502701ffed615c48429d826d8440cb",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k2_cb2_m64.cu",
+    "sha256": "70d07fb199d2d34f3dfcb4b56624949b8daba6d4279ac58f43871f520a06ea86",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k3_cb2_m32.cu",
+    "sha256": "8fe72ad8f9b72cd44be7c4eeab15beebb41edbe8d15b4fa07d255ffd349785eb",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k3_cb2_m64.cu",
+    "sha256": "48ebb197e936f0c4da3a4a258a35003a3ef328e0c95eacdc0b2fe6f83dbea5f7",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k4_cb2_m32.cu",
+    "sha256": "31b0b366961ffbe09b03089d793656a8771eb2e2155051c36f8aad7e9bd20d42",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k4_cb2_m64.cu",
+    "sha256": "3bf9ac19f20f694ebfc798ddc363926c32a76d1915a85e3d0d6add704a210113",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k5_cb2_m32.cu",
+    "sha256": "effff78c8bf6e9246e082f9c539ef8d943430b53152f0df2c9170aa13742aca0",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k5_cb2_m64.cu",
+    "sha256": "3ac48ad54a8a678257238ce5d661934223ea7e80acc65f213bc398cdbb4d43c4",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k6_cb2_m32.cu",
+    "sha256": "c972d6f469d6d6eb59ce4c597dcb65abc88043cc297c3fee7f1d52ba544e8337",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k6_cb2_m64.cu",
+    "sha256": "20ac372d3eb7184030bbf47ff96c379fee19d7d64ddd02b1841747c7efad2ba2",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k7_cb2_m32.cu",
+    "sha256": "99ec0e17a67b680426b99daa144c3f4206cefb5766467d9194e5dd99667d5626",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k7_cb2_m64.cu",
+    "sha256": "90b4788c72c0a9539412c6d03cfcc9d06fd12862f19d34ed86fe506a32aa4ac8",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k8_cb2_m32.cu",
+    "sha256": "caf320f6f35be479e0f3dd1d967a3a7ac28c8da57f8ea815708810aef19954d7",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_inst_k8_cb2_m64.cu",
+    "sha256": "b824601ea2df3156e29c9ffed3ed36682130b3787c685105d75b9183db42e349",
+    "bytes": 169,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/exl3_moe_instances.cuh",
+    "sha256": "ab1ba3e66de9da04b50498b8622883a4c4bf82659cfc19ae2fd8ee507f2db789",
+    "bytes": 1724,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_frac_inst.cu",
+    "sha256": "e67f4e121e0720369669100d3ddd3adc7eeeb90a8bcc98136c5a4f8eba2934b6",
+    "bytes": 434,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k1.cu",
+    "sha256": "8d7ebd5108a9554ee262aa67cffbef78c89effbd9b11dd04502719d93aa8f83e",
+    "bytes": 754,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k2.cu",
+    "sha256": "8da9ed22c3ca0189ad88932ae102e0bcf9188cce5b678556befabbe9c6e882d9",
+    "bytes": 754,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k3.cu",
+    "sha256": "670099bf72ee13d811cee610656c5c07f75053052472d06004721756b30a8729",
+    "bytes": 754,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k4.cu",
+    "sha256": "b9e1a386d6302508ebe92dc51c02eeb0da703b9f49b034e4830e2ffad1e67c7f",
+    "bytes": 754,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k5.cu",
+    "sha256": "3e82061f22f2d7da443fe3bce90f022b1f89d4b9f71eded3f1f2c7f1b4707200",
+    "bytes": 754,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k6.cu",
+    "sha256": "261461fcbcad916bc9964ed673b6d37c1cb2655cd1a6369635c7d4872f6649ff",
+    "bytes": 754,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k7.cu",
+    "sha256": "d50287c2343497f6ccdf96b9e29390e9058891f3591dbf02a1322dd5b3a64339",
+    "bytes": 754,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_inst_k8.cu",
+    "sha256": "9f99f7a2cec32d39dacf59d64236050ead7605e6886da29a6504d5b3f197df59",
+    "bytes": 754,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/comp_units/quantize_tiles_instances.cuh",
+    "sha256": "7f81c84ea0b35d6c1113ff50b40aa53960e39770e0c4c66a6513495dfaff2b99",
+    "bytes": 3090,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/coop_autotune.cu",
+    "sha256": "bd368107920452d72bc5ef4a945a3e736b30810f3dc2d50102f38fd32671878e",
+    "bytes": 20683,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_devctx.cu",
+    "sha256": "3a70ec586b1f04c217c4edfc0a88abb94f6d866859f64ba0cfd748dac39f1bfa",
+    "bytes": 2592,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_dq.cuh",
+    "sha256": "7ad840a71d9542ce2c3717e9cd2cf9af460c0b81d3c406460cca039ae55d345d",
+    "bytes": 12661,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemm.cu",
+    "sha256": "5e70876cd5f8890294772b69373c1f689276beccfddb7f3c8fcc2beca8ef28eb",
+    "bytes": 25471,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemm.cuh",
+    "sha256": "bc1760ad3c63c383e8e16b7d570a40f3ce775e617c1b26cf17c7b7d4d85bf398",
+    "bytes": 2301,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemm_inner.cuh",
+    "sha256": "b5a711f23163f562a106708ac93ff4319ad0f1f606d3c148a71c836b839e1784",
+    "bytes": 36091,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemm_kernel.cuh",
+    "sha256": "204a3838128476fe6b51b40d9af41ab5940a0ffb2ac5a078394bfef1005fe657",
+    "bytes": 12839,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemv.cu",
+    "sha256": "4f00e807c3f582a1d20b3c6bd12b4d3d5beb57d0a01dc69b5d22cd5827cbb719",
+    "bytes": 9659,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemv.cuh",
+    "sha256": "311f13f105c94f9b7811069e56f54cad0846a6d5e4303c95dcae7685e7390ae9",
+    "bytes": 1373,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemv_int8.cu",
+    "sha256": "ce41cae830d300ae93ba82ea4ed4745e23a67ec56bb91fd35f760faad2a7211a",
+    "bytes": 15771,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemv_int8_kernel.cuh",
+    "sha256": "0f64f85721ef0f0c9771833459248c717ca4b99b960447d260b472242f4ef8c6",
+    "bytes": 51644,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemv_kernel.cuh",
+    "sha256": "9cffcb17e2135c8187ce317964a0fe87e587a574ccc9cc62ddec8bd9fccfd212",
+    "bytes": 19538,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_kernel_map.cu",
+    "sha256": "a53e38f88777b2e050701e72e0e80b27924afe95d67d6739ee34a5c12e5b4c3f",
+    "bytes": 8813,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_kernel_map.cuh",
+    "sha256": "0b63e98c31d8e81c1ff7326b5b1b77ce613de19144832e68ca5f756c7b38c0f0",
+    "bytes": 6872,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_moe.cu",
+    "sha256": "43023f37b6415b4158dcfbb6f62c64355914c82c2197f973cb351a3fe77bafdb",
+    "bytes": 20851,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_moe.cuh",
+    "sha256": "3708d240c7f21cbe78445605bf20655ffd6727410a16f8bfad00816080d83092",
+    "bytes": 1644,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_moe_common.cuh",
+    "sha256": "61b99a181e9daf64cfb78ec8064e808b959f7acdbc2053a4d47c82101e2c2289",
+    "bytes": 2842,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_moe_coop.cu",
+    "sha256": "c34c4765a73769102b2c8f0f9034c9cdb57ad8a5ad3962f85ffbec54725acfcf",
+    "bytes": 14836,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_moe_coop.cuh",
+    "sha256": "725f8f283605290923a7686d75f2e292589e26c7369568524f37ee45db72d636",
+    "bytes": 6973,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_moe_coop_kernel.cuh",
+    "sha256": "fc3c0d65d8ff787b4dcc977a05382666ba81ea01ce64c09b74dda01fa6660525",
+    "bytes": 38695,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_moe_kernel.cuh",
+    "sha256": "5b53281b052bffb6c0bc8e15e992e12ff4f04a375a3b445b7b6d7860a7c63710",
+    "bytes": 14982,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/frac.cu",
+    "sha256": "f744007cd46e27bf8b530e03c438514db15d47af699fe28637daac925c7c7be7",
+    "bytes": 5795,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/frac.cuh",
+    "sha256": "b72d91ab9ec249b5d3400ec1b8c970787bb1b263f03079c8554a30a989a94335",
+    "bytes": 419,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/hadamard.cu",
+    "sha256": "872cea200e656b7dfb2c24b8f345e1a8299caff418a04be0c250f690ee8850d8",
+    "bytes": 14814,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/hadamard.cuh",
+    "sha256": "308f99c7c9d4b84c7ad0c5c2866b10a87091fd7c0fcbb43f373a416a6ca53b68",
+    "bytes": 899,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/hadamard_inner.cuh",
+    "sha256": "0ed5e3d26821e5e54ef37416c0a539d426d06671662f24c02b683e1e0e8e4e6e",
+    "bytes": 13632,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/quantize.cu",
+    "sha256": "8ec24c3ae0525d0d1192c474cba3e7443393f22e48a0e61826035e3572c112f4",
+    "bytes": 18730,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/quantize.cuh",
+    "sha256": "47402caab1ed3f8ad8e78c242d671e3fc0ca465f44030d1f99480d269b1178a4",
+    "bytes": 874,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/quantize_tiles_frac_kernel.cuh",
+    "sha256": "017ae1c983e03be79f7b26e612d31d62156e3b36d39777515323a68c57c6c54e",
+    "bytes": 9407,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/quantize_tiles_kernel.cuh",
+    "sha256": "1ac6d81148de0138c3f232cb5140096d6a971e0524d15b10166618c7621ceb66",
+    "bytes": 13968,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/quantize_tiles_optimized.cuh",
+    "sha256": "df8b0b7786350e776b5ccb7e10527f64cdbdf53d5317378ccedc45b07ce5d59c",
+    "bytes": 23619,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/reconstruct.cu",
+    "sha256": "a945e8f90178e8f0808cfa958037a9f792fa3ee49ae3f915f34ca7d20c1abe94",
+    "bytes": 24013,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/reconstruct.cuh",
+    "sha256": "f82df666823c127e9b67effc644f5842698240ea0106ecc68f1f331111c8e465",
+    "bytes": 829,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/quant/util.cu",
+    "sha256": "cf8d5a0172ccc470f494cbab537be98ca68482a15848939167bff18d8c8ef983",
+    "bytes": 2945,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/rope.cu",
+    "sha256": "ece76290f3ebaef25017cb4a473f8bbe78042c8f5279f9c4f9076c2ae380023b",
+    "bytes": 24311,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/routing.cu",
+    "sha256": "9dd78e5e50a85241160639d0d9f7d51b9959669d7247f923cb5934b0126b3695",
+    "bytes": 42125,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/routing.cuh",
+    "sha256": "bac700d91b5c411b5954b69f2a4b91cc5af217c5fdfc7413ce58751f4addf551",
+    "bytes": 3020,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/routing_gemm.cu",
+    "sha256": "15be491d60ed8bd00c8f99582bceee7e928ebd47f45572bba78bdec0609b9cfc",
+    "bytes": 17879,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/softcap.cu",
+    "sha256": "58f5a3e17db03a93249dde4a1eddb60c3bbe1212383147e3fcd5b2c71302ee0b",
+    "bytes": 2468,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/stloader.cpp",
+    "sha256": "be0f456c9155078b3fa74c7f46462222559c46aa9fa7fa8f40d7492980ac61d1",
+    "bytes": 24081,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "exllamav3_ext/triton_kernel.h",
+    "sha256": "0858e86ef26be49e43458b2b10cc352fb52862cc872409feed74a1a6823376fd",
+    "bytes": 1647,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "ext.py",
+    "sha256": "247604b4fa64752b0b16c898b1b1c4973f7c5c0eb91be917b29b623f91cbfb65",
+    "bytes": 5229,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "generator/async_generator.py",
+    "sha256": "9ddc8a0b5764c887be197d459799467d3c9b0a109917a4e282d387810413c836",
+    "bytes": 8867,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "generator/cpu_cache.py",
+    "sha256": "7e38371df748328371b715d3dfd3261315361b69125dc405b97e438be4177d1b",
+    "bytes": 17008,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "generator/draft_confidence.py",
+    "sha256": "44b1e6e01f1b2d709ce321ac12f02b761a2e72ebbbeb70db7422b173134f1156",
+    "bytes": 4557,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "generator/filter/formatron.py",
+    "sha256": "c3d55966b20c69ac3bf445a4ec897ea8572bb4ed994bc862feb366df2af8990d",
+    "bytes": 5247,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "generator/generator.py",
+    "sha256": "a26c68a6a92e47fa4c569157c82662dd66566654e98594c4f57b668eba222952",
+    "bytes": 76118,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "generator/job.py",
+    "sha256": "988226dcfb5e692e72ad93e3e343b5b7224bd84d5124a919539a6cee98dc4182",
+    "bytes": 79814,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "generator/pagetable.py",
+    "sha256": "557f093cd76fc6223d98d44bdcf66ea899114ffbc8dc5e7114d8788291f9f0af",
+    "bytes": 43339,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "generator/sampler/__init__.py",
+    "sha256": "e1370cfb576520031eadcbf04050d45404b77ca4610365434d9aacdee159c7e2",
+    "bytes": 692,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "generator/sampler/custom.py",
+    "sha256": "229e3dd5fb3c6139feb95bdc771c14fdffaf76d9d48989263033a7e20da1abf9",
+    "bytes": 50372,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "generator/sampler/presets.py",
+    "sha256": "80826642d7db4ddc1644c2135ba49424dcf57daf54449ed06dc6a67221745099",
+    "bytes": 4647,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "loader/safetensors.py",
+    "sha256": "91bbd8759612372aebd9290537062bddd9bc698f71dd92bdd73488e765c0a1f3",
+    "bytes": 49634,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "model/config.py",
+    "sha256": "89dd5a0d5b41b804b8375949a1b7df95713ce0fc6319fb751096e7502de5f263",
+    "bytes": 13804,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "model/model.py",
+    "sha256": "d3124935562c0843781b99b60406e07df24cd3faceecb7c7bc1833e2d0815478",
+    "bytes": 32460,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "model/model_ls.py",
+    "sha256": "ae289e6d7a9c57fa7296e17ffb2247c03e72a7d2ca3314fb441de720fd36a14a",
+    "bytes": 16263,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "model/model_tp.py",
+    "sha256": "10ce42975326d2306fb53ba28f0a09793edd36584b887ad8c60d8887d3ce7ed9",
+    "bytes": 29820,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "model/model_tp_alloc.py",
+    "sha256": "7c7079e90b5077c1e0a8e36ee054cbf50697336dd25946b1d26dff61eac63f9f",
+    "bytes": 8280,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "model/model_tp_backend.py",
+    "sha256": "594102b1a7f1179008bd362846d5239ea52ca0e7fa309d0eaafca70db407948b",
+    "bytes": 21449,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "model/model_tp_fn.py",
+    "sha256": "7eb9bc6a741da6fb8687e2b41d82cd0aaeaead40c4c55fd18dee5e8fbac0d3e0",
+    "bytes": 22163,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "model/model_tp_shared.py",
+    "sha256": "d0d07ebf048f7f58bb84165c41d27b3e247a5dd3bb960dda09f3ecbe77dad345",
+    "bytes": 11492,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "model/moe_cpu_host.py",
+    "sha256": "d6c4356f6d0bcd4c54ec042cb3c8ea90c8a6c9188e31d747317b24350659509f",
+    "bytes": 91927,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "model_init.py",
+    "sha256": "210eaf3124def59d66d08263e19f38e3bf8f1e26d80113a26898e7532174ef8d",
+    "bytes": 20783,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/__init__.py",
+    "sha256": "3483d87c039da28b3aa4fad3298a1b066b355c717141eda95bb266180f60c067",
+    "bytes": 899,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/arch_specific/deepseek_v4_vision.py",
+    "sha256": "d241951abd6059dfbc0aa5026054f801b1e273ae98391b8546bd1950f3a3a4f3",
+    "bytes": 4862,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/arch_specific/dflash.py",
+    "sha256": "7271bc56fbc2c2ae5b8d579357e57e0c42705d260b42b1d406a897f59bf57908",
+    "bytes": 3640,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/arch_specific/dflash2.py",
+    "sha256": "190dc789f284aff53e40ff92a8201be5a3032971931ba2d99bdb250f8e9e5c3f",
+    "bytes": 15377,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/arch_specific/dspark.py",
+    "sha256": "96570ba171f16fb40ba5558a8d3b38f68573c12c0ac4faa2fe9a5a30be0bd86c",
+    "bytes": 9714,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/arch_specific/glm4v.py",
+    "sha256": "6721a3cb281ffdd557306a217d822666946b976cf62dab23cc8cb4b0a538516f",
+    "bytes": 7164,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/arch_specific/muse_glimmer.py",
+    "sha256": "28891bf8fa8267dd0e19a42ebd5f393c9779f139f47a74e887573ea6f491712b",
+    "bytes": 7769,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/arch_specific/qwen3_5_mtp.py",
+    "sha256": "b08c099141406e61982707a82f78e0622d584ea1327145a1cf8deba7fe14cc87",
+    "bytes": 4580,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/arch_specific/qwen3_vl.py",
+    "sha256": "029e283ecc13bc0a35c862d8b5fd1df54dd99c663783958374f563f976bc8a09",
+    "bytes": 9308,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/arch_specific/qwen4_exp_mtp.py",
+    "sha256": "54b5c92c90cb14bfd87c856df4d4df4942dc7104124e0b847bbae65e065a7c08",
+    "bytes": 6583,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/attention_fn/bc_attn.py",
+    "sha256": "0cabfc40e0927f7c2aef0c71bce81396aef4443049154177ba4cc0d58cefce3a",
+    "bytes": 39035,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/attention_fn/bc_dsa.py",
+    "sha256": "2e94b31aedd4feeead62e08c5bcd11a9a62c13a91d93fc8c9ec85ce0b206043a",
+    "bytes": 32099,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/attention_fn/bc_mla.py",
+    "sha256": "09f28b1c60b17db8cd242ee6e5be6143f1f9c8bfa6e5fbf1aa3b37499a83105a",
+    "bytes": 33244,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/attention_fn/common.py",
+    "sha256": "d3ee0a4f87835f8e4cc7eaacceacd2bcb92a84b7da364f83786ac1693596de69",
+    "bytes": 4902,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/attention_fn/dispatch.py",
+    "sha256": "3b8e9e3486d4852cfdcfc8c8fa4f663e02de57fafc71f5c7f28e7377b70e9058",
+    "bytes": 7824,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/attention_fn/dsa_triton.py",
+    "sha256": "1a57016adb0755ff79f797239399671dcc4e36c2e5d75b595bd198db4792c13e",
+    "bytes": 59167,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/attention_fn/mla_triton.py",
+    "sha256": "d86b26880f4c0c8c69f10a558187a0eaefe697b60ae616dcc42549ef66d6c732",
+    "bytes": 54471,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/attention_fn/qsa_triton.py",
+    "sha256": "0ec67765e6eac691b1dfdf0827c31d111e0194a6981463e3ee167fa0e1b08f1a",
+    "bytes": 15928,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/attention_fn/torch.py",
+    "sha256": "7b1295dbb9d5dc69aaa74f8fb3e97426a1cb2c768fbf3e724616fe3e32021d3e",
+    "bytes": 5926,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/attention_fn/triton_paged.py",
+    "sha256": "0c5a810d1df1aa72ab6b12ec76ba62093029cb1bfb38ce425e5d03ab8400c69a",
+    "bytes": 98227,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/attention_fn/xformers.py",
+    "sha256": "fd795bbfcc2092e61c57656cebd399aeac89f1101f201f0a06680a7be9123a95",
+    "bytes": 6994,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/attn.py",
+    "sha256": "23322706fb3ba13403860d6430eabee0a4a13f45143af689e2917ab52621d6cb",
+    "bytes": 58902,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/block_sparse_mlp.py",
+    "sha256": "4eff15bb81a84b6153251eb10a891598614e98648d601ea4477d3155e99efd84",
+    "bytes": 83606,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/block_sparse_mlp_cpu.py",
+    "sha256": "0381793ec42cc80c2d00deefd46232511c453227eccaa5ce2cb08f2b76cc2a69",
+    "bytes": 39029,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/block_sparse_mlp_routing.py",
+    "sha256": "3e601fae952b07ec7913be39f7310ca25dd6fdfeeea0e30e646faf338abfaa03",
+    "bytes": 17400,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/dsv4.py",
+    "sha256": "44ae2bd2fd765e48b999a464ae6771d6eac674c200ceed691f01666f4b8b2b72",
+    "bytes": 83829,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/gated_delta_net.py",
+    "sha256": "15d07c4a86484ac27f930f96fec9b2c5a788c1638936cf747dd34e4f2838b571",
+    "bytes": 60843,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/gated_delta_net_fn/conv1d.py",
+    "sha256": "b525a0387968a84dae8a4b4fac572531979b01da180dbdc935e77f9aff1e48f3",
+    "bytes": 15317,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/gated_delta_net_fn/gated_delta_rule.py",
+    "sha256": "b98ae70bdb53f7625bf468015820768bebddf45df3dd87baf70dad28dad2ec08",
+    "bytes": 8213,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/gated_rmsnorm.py",
+    "sha256": "5188a18a747d65cbb9e228f4878f10f8f78341302dcfad35584aedb0928fb30b",
+    "bytes": 7612,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/hyperconnections.py",
+    "sha256": "a71adca7d8558bfa8f064dc72f87069a6a90e6c712ee4d6a85c1503dbde6be86",
+    "bytes": 32703,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/layernorm.py",
+    "sha256": "7180556a0e917e5dcfa332e8175b614bded8ad856b0735c78ebc119bd29f69eb",
+    "bytes": 5686,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/mamba2.py",
+    "sha256": "b1d84e0f12c915676ad70be5c4ec40bb297ef96a6e11a4bfcabdb2d6e631198a",
+    "bytes": 30575,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/mla_attn.py",
+    "sha256": "49a541f888a8772c0a8761a90e7ac440a31711f7a1fbcbf0a60c8d4bda4c3865",
+    "bytes": 65629,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/mlp.py",
+    "sha256": "aeb0b79052714d85adaa9854ffc9837fe92298f7a0ec466c8a38ac789b267dfc",
+    "bytes": 35692,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/module.py",
+    "sha256": "10cc2fa281a9f8c89f0c465a2425dbfa09b904955c55c724390695b19b9ac958",
+    "bytes": 7675,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/moe_batch_recon.py",
+    "sha256": "f44dab56199fd575575e21f42d67df7b95236a539e4a0ed007a0d05ed495267c",
+    "bytes": 16917,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/multilinear.py",
+    "sha256": "321af5f23690dee704a3790f49c695afcf1523cc097bb97393951ea6a58c0d3b",
+    "bytes": 6263,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/ngram_embedding.py",
+    "sha256": "949c5cee41670243352512f920c4a9f06ccdf8dd85f4323e32499e1bf6d65858",
+    "bytes": 30832,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/ple.py",
+    "sha256": "47fbddd40fc762d92750ef059fa1d1f6e279b3a90174ab8977fcb14e28c23c7a",
+    "bytes": 24541,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/qsa_indexer.py",
+    "sha256": "d52767750b5ffa4cd994ecb97b90382d1425f232e4c2b652e0c0b8238c96f315",
+    "bytes": 36610,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/quant/exl3.py",
+    "sha256": "323697aa07fd6e87f9af06ef7b709cbce1bc935a4981d42aeb28da9c061252ef",
+    "bytes": 16764,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/quant/exl3_lib/ngram_codec.py",
+    "sha256": "95d69f219856c451b928119c8ed5c1d740e53492a0d6394e3f5dad6cfe47943f",
+    "bytes": 3686,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/quant/exl3_lib/quantize.py",
+    "sha256": "295fda476bff55fa17f429c0388fbf18c8f7bf8df62c7e5537f2f4d905e15885",
+    "bytes": 80473,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/quant/fp16.py",
+    "sha256": "5000f04fdb6715d407b92fe34620e73656b9f25bfdbe9b988979831b807f7ad4",
+    "bytes": 9280,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/rmsnorm.py",
+    "sha256": "80e3af7bf16e0e578ba78d3281c914cde9bb68b36cafa14f4251f6bf9f755d77",
+    "bytes": 8830,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/sliding_attn.py",
+    "sha256": "7b14159dff1d68d4eb1544032a9342caa92526b7316e12519cbae38da7898197",
+    "bytes": 51301,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "modules/transformer.py",
+    "sha256": "13bea1f748c2352b5568e68dfe722f7d0037772c303ce3a5b97a9b5432c063f0",
+    "bytes": 14892,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "tokenizer/mm_embedding.py",
+    "sha256": "3ef5472bb4bf394f99b408b31302faa3e75440371c74300a21e02be43ad3a0ed",
+    "bytes": 6134,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "tokenizer/tokenizer.py",
+    "sha256": "5e063eeb409a9181dea27c7f7b456e6c3ff55d235d5eb0367a6188c386edd98e",
+    "bytes": 31774,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "util/device_copy.py",
+    "sha256": "da689033202b391ae1f30871b0cdf8fa8b25d4743fcf2f54b13b67850d3e7273",
+    "bytes": 3819,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "util/hf_util.py",
+    "sha256": "f6208654a01276cf7818e53d17b211406ece4b64fb1de6a279476da33ffbdf27",
+    "bytes": 1566,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "util/measures.py",
+    "sha256": "9522d6f2710db369274d573148fd9ad1cdc951bf7213a8f7224cfa5fe15293c5",
+    "bytes": 10800,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "util/memory.py",
+    "sha256": "a29fb9504a37f50bb15f41c37bef03bebbd30612198c9242b724d9089fd31063",
+    "bytes": 26264,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "util/progress.py",
+    "sha256": "cd7ba229cd0b2c0f5f0a32d68ee143cd3ae007e291bd45c7bef0094d4c655bfd",
+    "bytes": 1667,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "util/rope.py",
+    "sha256": "1bd1447e8378b6bffce522c4468e8c8c8fd18bfac22dfc91fc7904419ead15c5",
+    "bytes": 21162,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "util/shm.py",
+    "sha256": "8d4c3678f4bbebfc6d89e639df32e884bee09a49a4618c4a65e361afaaa03413",
+    "bytes": 1768,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "util/tensor.py",
+    "sha256": "37f56fb92196c2ed7b51a068838c72545be7f24bf68b790098809e832dd3b162",
+    "bytes": 8620,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/__init__.py",
+    "sha256": "5ef3c6475f8c881627731d5d7253f30100a48246d3bce1cf4aafdb5851d601d1",
+    "bytes": 94,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/__init__.py",
+    "sha256": "4acc6a496b98abdedacb0b3b313d7cd55258937211b7ed4711fe2551eb082af8",
+    "bytes": 6536,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/chunk_delta_h.py",
+    "sha256": "c74d3d4c0f6792c5454fc11cf06612698391d4991fe93525457a6dd94eaa24da",
+    "bytes": 15507,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/chunk_h.py",
+    "sha256": "5435c799dda9e45ac20e500de23c685b7bdedbd0339e8de49755931f9b30ef5e",
+    "bytes": 8202,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/chunk_o.py",
+    "sha256": "4cf9f4478ad29a7fddbc41c9397cca5336f006b1de9d6ec78c19bea3b1d88afb",
+    "bytes": 5836,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/chunk_scaled_dot_kkt.py",
+    "sha256": "7653a4036594d4aec83a05a88ee5a5e31baa4f10f62c003593d7b45959103970",
+    "bytes": 4606,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/cumsum.py",
+    "sha256": "09927d3a90733307da47a1e6df613640d2727143bad760e6d2e2118983f19805",
+    "bytes": 8095,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/gdn_chunk_fwd.py",
+    "sha256": "b3d638b2af81e3553d9902ea66df21f9d45cf95fa70f455c43b9b2430021afdc",
+    "bytes": 17141,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/gdn_wy_fast.py",
+    "sha256": "840ab330fb245d87e09cad3153f9b0a16ec7f28bacd6ce7e6a1ce72b0ca18953",
+    "bytes": 4489,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/gla_chunk.py",
+    "sha256": "8fe9c20ed5b881364aa1f7b697e8fe74018061297afa85849228f0c04d7452ac",
+    "bytes": 5198,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/index.py",
+    "sha256": "243746561aa51801a1dbdefd3d588ab3aaa149cb26003e986dcf1467cef9f065",
+    "bytes": 2368,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/kda_chunk_intra.py",
+    "sha256": "671b00be7593727bc960213d3e4d333f94f899c7c78025ef691c19de89db7170",
+    "bytes": 23203,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/kda_chunk_intra_token_parallel.py",
+    "sha256": "ea782aec6a74921de28be7883bb348a0c4683f520e295ed500ebe385fd36109a",
+    "bytes": 5209,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/kda_wy_fast.py",
+    "sha256": "d5ca19a87ed0af07c73a6a21876dffa1e40304d872f944df4f385be196007513",
+    "bytes": 5655,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/l2norm.py",
+    "sha256": "847f148f596d6a4e8a0ff7368d387c962d9d1da42ebea803baadc3a9f4fac6a7",
+    "bytes": 3857,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/op.py",
+    "sha256": "e5b325142087cacb6d83d4dfe9f243aa0f84c7d850f41fde75b98092c4561b1e",
+    "bytes": 3330,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/solve_tril.py",
+    "sha256": "e69eff5a2c90539ab5b62c9e1bed943101a065be57826879391529fd314827b7",
+    "bytes": 18078,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "vendor/fla/utils.py",
+    "sha256": "d976bf7a755f261cb81e16cfd61affc2025f2624266a88fcb26e5fa35745ac1e",
+    "bytes": 5432,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "version.py",
+    "sha256": "dff563b440e5c1284d782fdbfe2e080356189e4628f3674fdb6152d5303b0aee",
+    "bytes": 21,
+    "source": "EXL 1.5.1"
+  },
+  {
+    "path": "architecture/architectures.py",
+    "sha256": "e5315d0155dc517b826f3839c18c635c7a17c03ea8f5ba585da6ea33e0cdcebf",
+    "bytes": 3945,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "architecture/dflash.py",
+    "sha256": "f0620f4afad3fd8e5408b215de70b71cb1f69a99345cfb753e2000a925a733a3",
+    "bytes": 12042,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "architecture/dflash2.py",
+    "sha256": "b28e06de9825236b9e9eccc8a9246b8f4e2525ddd59f4442f938f39ac71e54de",
+    "bytes": 8996,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "architecture/dflash_laguna.py",
+    "sha256": "f13eddd6355f5ac93de2ee2a28a05a9b8dbe14420da3d15d03718fb2bbaac12a",
+    "bytes": 14038,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "architecture/dspark.py",
+    "sha256": "34b4aaf628e7942f953a747bbb5ac4c23c41beb3d82af97cdd951b1913f55f61",
+    "bytes": 11208,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "architecture/gemma4.py",
+    "sha256": "caca8960c7bcec6be3d2754d324fc6e615895c6b1cd15764c752c4cf4688cf89",
+    "bytes": 35675,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "architecture/glm4v.py",
+    "sha256": "9d869a974a948e86b4f1e1d872f7aa9f4b7a882e15ee19614a8d2137d5f6be48",
+    "bytes": 15236,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "architecture/hy_v3_mtp.py",
+    "sha256": "7e373187dca78e5ca7671ce8259771eb798de1d0b4fc735e3baa1a15a98719ba",
+    "bytes": 9682,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "architecture/muse_glimmer.py",
+    "sha256": "b1e9f2924b8c24e0335f17f6ebe3736d94bb70f5dcf698abbcd74a62e4907df2",
+    "bytes": 23631,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "architecture/nanochat.py",
+    "sha256": "84179ffe2ae22970b0f5d085b008c9e2269abefbaa1464a9941b47eeb95c68f6",
+    "bytes": 10496,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "architecture/qwen3_5_mtp.py",
+    "sha256": "06d7495dfc8122b5067d3ac11e79a9c7d03e52228c069f9636a10794a3df2c9d",
+    "bytes": 10329,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "architecture/qwen3_vl.py",
+    "sha256": "0603686369f6b8ca9505fd35ca9e42c4f72cb90af96fb1d9d6fa7485e5a08733",
+    "bytes": 15478,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "architecture/step3_7.py",
+    "sha256": "7b705fc27df9a0318580d218828baf7a5d37c79c894c002175d322d3919e2156",
+    "bytes": 16867,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "cache/__init__.py",
+    "sha256": "cc43762d9a1dd9ddc4ff20684134239cfb9eeb5b47dee32b682e1f1ff10cec7d",
+    "bytes": 312,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "cache/cache.py",
+    "sha256": "b59d275a01848948fc31f6685b43de3cd21f74034d554465441a45ad9de6f771",
+    "bytes": 13004,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "cache/fp8.py",
+    "sha256": "ed85fc5d6689e06a6353cb9941df7a018d24e1b5272914d83c0495458fa4c3f0",
+    "bytes": 4603,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "cache/mla.py",
+    "sha256": "ab172bf6e2d329c84ea1cae2c7c34be9c3451ac7c9871c50aaa82e6400b347c9",
+    "bytes": 10828,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "cache/nvfp4.py",
+    "sha256": "9157a0736f06d24a5103dccadf601ccbe3a5505973de2f9a0882f697f69cf50b",
+    "bytes": 7842,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "conversion/allocation.py",
+    "sha256": "53953d27649222af5148db0fce00622d03f8bd4ce51b2e67654ff16da433eba9",
+    "bytes": 6833,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "conversion/calibration_data.py",
+    "sha256": "48435a08d14c8e2ce673c241e03a579580f88e65c05aa7957e5c7415002ee3e7",
+    "bytes": 6886,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "conversion/convert_model.py",
+    "sha256": "f970e6c9d6fe68270a01662502538a63fe7e12b00c83713fbc8e435177a27fd0",
+    "bytes": 59995,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "conversion/measure_model.py",
+    "sha256": "9f1eac70b62ec2202b4d9bcb5acf6c3f9bfdf62b218953f555daf2efd969ecc3",
+    "bytes": 17218,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "conversion/optimize_model.py",
+    "sha256": "a0ee24e4989cab46f6861ea6e05516fa4211939ed9c78e718036c4974f18f6b8",
+    "bytes": 5953,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/add.cu",
+    "sha256": "a840a651b7ebaf49feef34b5ad35907c56b3340989270b4cb16fed50d74eefb4",
+    "bytes": 11082,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/add.cuh",
+    "sha256": "3377a0bd4fef25e796a0f7796f177b49487657d675e21256b9e4d8e16a41466e",
+    "bytes": 751,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/avx2_target.cpp",
+    "sha256": "4e955e760b4d0a748c1f004219c1a783a3caee8d774b37c406022074c64e75ce",
+    "bytes": 1420,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/avx2_target.h",
+    "sha256": "7729b049f9c9d14b0373aa69401e98724b26a2e97278dde6ea08fef4589cc93b",
+    "bytes": 720,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/avx512_target.cpp",
+    "sha256": "e901f2c51cbf779825063455d2143fc33dbf0ce529cac59b1618640c85ab16ef",
+    "bytes": 1356,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/avx512_target.h",
+    "sha256": "cfc9c4a51359fe70bd2abc39870b7e7057ff40e32a83e961516facb1a1d8f9dd",
+    "bytes": 601,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/bindings.cpp",
+    "sha256": "eda12add55d099da1f6b8055f137afad69f0360f70f5c21fec3f8c65040be295",
+    "bytes": 11364,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/cpu/moe_handoff.cu",
+    "sha256": "9d564c436086b38afcd79e5a138bbe6e3f873be5e43034107832d31fe00abe86",
+    "bytes": 13747,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/cpu/moe_handoff.h",
+    "sha256": "f3fefbe73b86ad732c36dd12f13b1474661fcc94dfc3fff2b537214ce7829f03",
+    "bytes": 5017,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/cpu/moe_mul1.cpp",
+    "sha256": "9194fb4b1d45844082bf1098cb2a8f892209b08481f390cb11f9e21370c1ce6d",
+    "bytes": 96320,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/cuda_host.cpp",
+    "sha256": "b2d1c91b273369bec3d6c1f05eccb4cdf49138a8c283177b5ad1b69a2c00d8ce",
+    "bytes": 2509,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/cuda_host.h",
+    "sha256": "be9d2e22608c08b84bc950c8c4848149a33f7427a5f64a9aae77b7b427c57114",
+    "bytes": 402,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/dsa_topk.cu",
+    "sha256": "aa3db7f07ea6ce89a8f24c445b06695557b58ada4d71170f85bdee912e1da2c2",
+    "bytes": 12656,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/dsa_topk.cuh",
+    "sha256": "f41150f06137de89dcdff932027bf48c16d9c37aeca4e4989c8f20504299bdad",
+    "bytes": 402,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/graph.cuh",
+    "sha256": "1bda146667d711d5d8cca796dd5b48ecc65ff6ba1ce50151bd11e558d02578d6",
+    "bytes": 3094,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/attention.cpp",
+    "sha256": "e395be3da2a7373ca94c97fb5520b6507dcdbd6374d192c6c09d0c07b496ba10",
+    "bytes": 26886,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/attention.h",
+    "sha256": "92fe5a7fd75390f3fdace3e14ec4c4c402a13cc4a34da86925aad3ed1c496116",
+    "bytes": 9418,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/attention_bc.h",
+    "sha256": "8de3739965f11908f2d4436fad87809407fb62393c1d8cac55c4bddaab88b173",
+    "bytes": 3501,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/blocksparse_mlp.cpp",
+    "sha256": "1cc9b6e7f22cb8ecb57d8a9cf4c0560faf588a86173871c116850dad9e662442",
+    "bytes": 25805,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/dsv4_attn.cpp",
+    "sha256": "36e66f7af9f686ce8fb639abcbb397146d9e7f43d2e3b5cb338f3c3c90d340c0",
+    "bytes": 28114,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mla_attention.cpp",
+    "sha256": "0abae0490120729f47500691586d41b2fadc76bf850980f0d66e3d69b1406096",
+    "bytes": 19106,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mla_attention.h",
+    "sha256": "894c23175cf8e2d620cc817ce9add46bc48a4292ba7347d9c7528688ed938f3a",
+    "bytes": 7555,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/libtorch/mla_attention_bc.h",
+    "sha256": "f4bce7ec86a9746dfd3cbaecfc60a341cba359cb786ac0bd7f8ddafedb932557",
+    "bytes": 2359,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/parallel/all_reduce_cpu.cu",
+    "sha256": "ff7181f7fcb6d259bbb4175a500dddbcd30f1d7e9dc3cd592e1b7705827efe9b",
+    "bytes": 25382,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/parallel/all_reduce_cpu_avx2.cpp",
+    "sha256": "1986f12ab8fb97595ac2824dbc407c9abb8c6ce104f7080452afc073e258934d",
+    "bytes": 17862,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/parallel/all_reduce_cpu_avx512.cpp",
+    "sha256": "629a2be9d7578a9f86227445bed4b01f5e6a5b150b1e66022184df593cd181e3",
+    "bytes": 21784,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemm.cu",
+    "sha256": "8489acf23c432182ab22729a8744a0c165395490689f418126e2a4a41368280e",
+    "bytes": 22115,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/quant/exl3_gemm_kernel.cuh",
+    "sha256": "414ae422bc7278f4ecd92688b644392826f2c9f3ebb4a0acfd020a43dd8efb9c",
+    "bytes": 10088,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/rope.cu",
+    "sha256": "95ea40b5d454458ca86f7d50af703b2b41a52f7b8ffe7e2bc2c25a8357608ad4",
+    "bytes": 25864,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/rope.cuh",
+    "sha256": "43385571f46b37efb150019f88fdf2095de231740453a36e6c47e853c3fc5e1b",
+    "bytes": 2066,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/routing.cu",
+    "sha256": "34d4e97d58210e67b72f15a1cde0729eaf0feb48e5f88b0243fa9d0d8cba0aa5",
+    "bytes": 33622,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "exllamav3_ext/routing.cuh",
+    "sha256": "d8d67a82269ad1339652dbffbbd81ec54a8f6becf8f07fe9c82ccdd34af8aa7d",
+    "bytes": 1407,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "generator/async_generator.py",
+    "sha256": "07996247e9186512b9f7c04d44e37c3a1142d46c09edcaff5700998c13cc1ceb",
+    "bytes": 7351,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "generator/cpu_cache.py",
+    "sha256": "93e951c78f3ec69f1400d94910bae1bffdcf201c243f6be3b8fa465a88c06c0f",
+    "bytes": 10781,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "generator/generator.py",
+    "sha256": "259c795a89064bccee3fdfa4236a1fe1e77d472771d548382d3abe6335d4287b",
+    "bytes": 70167,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "generator/job.py",
+    "sha256": "7b2c130269b7aa73073b5357b5925be05411672f6a95e927b1fb40bf41335b01",
+    "bytes": 70950,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "generator/sampler/custom.py",
+    "sha256": "9c2f28029cae61c93896d088b68931c8279e8e8b5a22a54c8c221ce197e57c24",
+    "bytes": 43650,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "model/config.py",
+    "sha256": "fdd01944d2fb9dcb1be071855f47a3789b90eb29be84fb3b52eace39851fd80e",
+    "bytes": 12382,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "model/model.py",
+    "sha256": "2d67717e873fd05f4a26824b30323786eab21f102f724b1d79319cbbf2f75372",
+    "bytes": 23390,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "model/model_ls.py",
+    "sha256": "9429a0a149002b326ff1760834439d2ef17d9f2b923523ef2103bf5ec9e4b3ab",
+    "bytes": 10848,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "model/model_tp.py",
+    "sha256": "bc96eab00acf8b5b7bc1d53fd27457994c298b9340efdd598fc7e64cef9bde75",
+    "bytes": 28201,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "model/model_tp_alloc.py",
+    "sha256": "694dda0f3f202d17f271a4944ad446b40ab65025082e66a7b8dcb73826eeae0d",
+    "bytes": 6912,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "model/model_tp_fn.py",
+    "sha256": "9ec50fa1f982eaba526997548452a11be6e3f0a00add779db5c75b8348161f06",
+    "bytes": 14729,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "model/moe_cpu_host.py",
+    "sha256": "0682c5c70725fab121e81543bb39d301f1f2c1089eb57cd7f2e7803bd5b7ccb5",
+    "bytes": 51890,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "model_init.py",
+    "sha256": "f2090ec2a18fb435d09e85fbabd86b796396695de81375f7d5781c76faa9ab79",
+    "bytes": 20380,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/__init__.py",
+    "sha256": "5e66ade0cc39019f2585eb21bc407db9301049a24fe59501e03e1a5234e74375",
+    "bytes": 859,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/arch_specific/dflash2.py",
+    "sha256": "93ac971d407f797a0bac8b82200d0b4a7d4a356ce95ada169d1123172257cfa4",
+    "bytes": 13382,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/arch_specific/dspark.py",
+    "sha256": "0b328319fd280ad8e01bbd3dec013df9ad6ae801745d6fd87ba9704bdb7bbc36",
+    "bytes": 9759,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/arch_specific/gemma4.py",
+    "sha256": "d33e9c5efe60151989c5f52eb03d951471b8da36526962f5f56f7b7e17ce1631",
+    "bytes": 8764,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/attention_fn/bc_attn.py",
+    "sha256": "bf8e5c05f7b0fd4f5b7adae5da7db1ce1e9d2d91d2cff9d7ed6bde17ca50ca35",
+    "bytes": 23318,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/attention_fn/bc_dsa.py",
+    "sha256": "98f2a6e01aeda0a8b6b22edfc5daa1908c3519d8288deda5a88523a6db46fc86",
+    "bytes": 30556,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/attention_fn/bc_mla.py",
+    "sha256": "9bba2cacc55ad4689f2836ed21b59dd6fb567c2e6504c50497d3b20bdcff4de4",
+    "bytes": 15924,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/attention_fn/common.py",
+    "sha256": "b8790f4ea1ccc757940a7a53394a714c321e41dbbb7d779934b24e064a462a3d",
+    "bytes": 4809,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/attention_fn/dispatch.py",
+    "sha256": "5d3c07eb2adfbca898cd9f9765f508b9dde77c8eb2527d054d6949ea7750cd13",
+    "bytes": 10568,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/attention_fn/dsa_triton.py",
+    "sha256": "c951862fdcabd2b5d96a1fc95ee412a50af58aa4dbc6cc1462012a91be92e7d2",
+    "bytes": 43488,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/attention_fn/mla_triton.py",
+    "sha256": "3b4b03b763d237bf4b1e9ceb05d0b30cb2d63f70b109a317acead6b8a98f0cea",
+    "bytes": 51679,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/attention_fn/triton_paged.py",
+    "sha256": "40e22a698dd605fd8fbc1c5dde991bf481846f270e0eb50aca68cc1a2d452327",
+    "bytes": 105045,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/attn.py",
+    "sha256": "4325755956cea40c3a21cd915fd4a0671b7c23d96e0fd3adc8568caa6ab65e04",
+    "bytes": 44925,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/block_sparse_mlp.py",
+    "sha256": "82c2f0e6a0af62fd954e901bf5780a8a064c99549c7fc62d69783ac140b1bbe2",
+    "bytes": 78821,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/dsv4.py",
+    "sha256": "9228ed8264e5f0b46c246c346f1504c33538b778ccb086d63f83eadb799af7f4",
+    "bytes": 81445,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/gated_delta_net.py",
+    "sha256": "5d9818e25c9baa1d37bda397dea35b5549053c51cbfffb8c93edd7a54ffd985a",
+    "bytes": 44809,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/linear.py",
+    "sha256": "cce3b2eaaa57d4b050448a95d666d38c649633f512e559ee86248adc5c7e3f71",
+    "bytes": 36589,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/mla_attn.py",
+    "sha256": "b60b4a34f50a64722f973c61c40a13d53867e4e89dd917de5e55eeccc11499cd",
+    "bytes": 25270,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/mlp.py",
+    "sha256": "087d828fbd8997a53bd6c201f605021f09bc57c804b55987bcb462a3659f2b79",
+    "bytes": 34745,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/module.py",
+    "sha256": "0f93cebc26cc9241c2df995c0fe7ef6642dc74ba99e365eba0a9650cff0c9da8",
+    "bytes": 5274,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/quant/exl3_lib/quantize.py",
+    "sha256": "b0285936aed444a2e742d65bae648078307e429ae94c89200ff28ee386f19bd6",
+    "bytes": 61939,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/quant/fp16.py",
+    "sha256": "8d669ccf763a03f7fafa188534fc2291bbfade7dbf2dd0fe39f28d2901bd6f70",
+    "bytes": 8534,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/sliding_attn.py",
+    "sha256": "38c936ae918f3f1afbfe0ae08fb12e8b03a5ea7100d9cb825863e304bb58ae68",
+    "bytes": 44449,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/transformer.py",
+    "sha256": "bbcda29b0bf18361205eb035ddeb3797cf863bb6d6257666d0637bba953780b1",
+    "bytes": 16960,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "modules/value_embeddings.py",
+    "sha256": "0342f4fabe6665b18705a8c218d85bfa6a9f44d6c2e3dd7bce39ba03ff93f0ad",
+    "bytes": 2456,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "tokenizer/tokenizer.py",
+    "sha256": "a685f4f8da38591d00517cec8c8b934aec0fefd04bf81a3d9bb0bbd28badbc07",
+    "bytes": 30336,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "util/memory.py",
+    "sha256": "0b233be31830169072bd31dbc25684660e434dddcd05fbf19d0a2ec1699b9a15",
+    "bytes": 7869,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "util/rope.py",
+    "sha256": "faee4586abb3b21a3fc5e0d24a130e07584b703f6df63a9f9c09f374f6648dd4",
+    "bytes": 21186,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "util/tensor.py",
+    "sha256": "3f5bbcaa1bc07df60245a525f939ada58d66a9fcf5b33d450b96d322cb209281",
+    "bytes": 8034,
+    "source": "Mia EXL fork"
+  },
+  {
+    "path": "version.py",
+    "sha256": "9065b24f11ff09ad63ba7da0cac798993736fc1a3d276af098c0b5db2d053be4",
+    "bytes": 21,
+    "source": "Mia EXL fork"
+  }
+]
