@@ -1,0 +1,27 @@
+{
+  "model": "Mia-AiLab/Qwen3.8-27B-EXL3-3.5bpw",
+  "revision": "19441ac874c4018295da848e250f23511361cda4",
+  "exllamav3": "1.5.1+cu128.torch2.8.0",
+  "torch": "2.8.0+cu128",
+  "gpus": [
+    0,
+    1
+  ],
+  "tensor_parallel": true,
+  "budgets_gib": [
+    21,
+    21
+  ],
+  "context": 262144,
+  "kv_bits": 4,
+  "mtp_draft_tokens": 4,
+  "chunk": 1024,
+  "batch": 1,
+  "recurrent_cpu_cache_gib": 4,
+  "temperature": 0,
+  "top_k": 1,
+  "top_p": 1,
+  "seed": 20260926,
+  "thinking": false,
+  "max_output_tokens": 16384
+}

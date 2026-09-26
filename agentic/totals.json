@@ -1,0 +1,51 @@
+{
+  "one3090": {
+    "gpus": 1,
+    "completed_turns": 6,
+    "generated_tokens": 206691,
+    "wall_seconds": 6653.436586141586,
+    "decode_tps": 62.08607087941076,
+    "end_to_end_tps": 31.065299462012725,
+    "model_requests": 435,
+    "max_input_tokens": 233118,
+    "max_input_request_decode_tps": 40.90365528281355,
+    "max_input_request_output_tokens": 7899,
+    "thermal_peaks": {
+      "1": {
+        "core": 76,
+        "hotspot": 92.25,
+        "memory": 76.0,
+        "watts": 420.107,
+        "utilization": 100
+      }
+    }
+  },
+  "two3090": {
+    "gpus": 2,
+    "completed_turns": 10,
+    "generated_tokens": 225790,
+    "wall_seconds": 4449.602934122086,
+    "decode_tps": 83.54803801473747,
+    "end_to_end_tps": 50.743853629840515,
+    "model_requests": 440,
+    "max_input_tokens": 233631,
+    "max_input_request_decode_tps": 58.21903404219236,
+    "max_input_request_output_tokens": 6301,
+    "thermal_peaks": {
+      "0": {
+        "core": 77,
+        "hotspot": 89.219,
+        "memory": 94.0,
+        "watts": 346.417,
+        "utilization": 100
+      },
+      "1": {
+        "core": 71,
+        "hotspot": 87.625,
+        "memory": 70.0,
+        "watts": 386.604,
+        "utilization": 100
+      }
+    }
+  }
+}

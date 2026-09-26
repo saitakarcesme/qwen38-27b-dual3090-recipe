@@ -1,0 +1,69 @@
+{
+  "schemaVersion": 1,
+  "config": {
+    "providerOrder": [
+      "rig-research"
+    ],
+    "providerConfigRules": {
+      "providerRules": [
+        {
+          "providerId": "rig-research",
+          "providerName": "Measured local Qwen",
+          "enabled": true,
+          "config": {
+            "group": "standard-personal",
+            "access": {
+              "type": "api-key",
+              "apiKey": "local-only"
+            },
+            "api": {
+              "type": "openai-chat-completions",
+              "baseUrl": "http://127.0.0.1:11445/v1"
+            },
+            "personalModelIds": [
+              "qwen3.8:27b"
+            ],
+            "modelOrder": [
+              "qwen3.8:27b"
+            ]
+          }
+        }
+      ]
+    },
+    "modelConfigRules": {
+      "providerModelRules": [
+        {
+          "modelId": "qwen3.8:27b",
+          "config": {
+            "enabled": true,
+            "properties": {
+              "contextWindow": 262144,
+              "inputFormat": {
+                "supportsText": true,
+                "supportsImage": false
+              },
+              "outputFormat": {
+                "supportsText": true
+              },
+              "supportsToolCall": true,
+              "supportsJsonSchemaOutput": false,
+              "supportsNativeWebSearch": false
+            },
+            "optionSpecs": {
+              "maxOutputTokens": {
+                "max": 16384,
+                "map": "{\"max_tokens\":maxOutputTokens}"
+              }
+            }
+          },
+          "providerId": "rig-research"
+        }
+      ],
+      "manualProviderModelRules": []
+    },
+    "defaultModelSelection": {
+      "providerId": "rig-research",
+      "modelId": "qwen3.8:27b"
+    }
+  }
+}

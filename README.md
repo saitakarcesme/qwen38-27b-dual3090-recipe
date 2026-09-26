@@ -1,5 +1,17 @@
 # Qwen3.8-27B on 1 vs 2 RTX 3090s: full-context coding recipe
 
+## Final real agentic run — ten prompts completed
+
+**2 × RTX3090: 225,790 output tokens in 74.16 minutes; 83.55 tok/s weighted decode, 50.74 tok/s end-to-end including tools/tests/retries/compaction.** The installed ZCode0.16.9 CLI and local Qwen built a real TaskHarbor project from scratch. Final recorded verification:102 backend tests +69 browser checks passed. One-GPU comparison was stopped by the user after6completed prompts and a partial7th.
+
+At **225,350–232,345 regular input tokens:64.56 tok/s**. Peak input233,631 was the automatic-compaction request at58.22tok/s; later faster rates use shorter summarized context. This agentic workload is separate from the near-full-capacity tests below.
+
+- [English final report: stages, elapsed hours, context, TTFT, tools and temperatures](agentic/FINAL_REPORT.md)
+- [Agentic server recipe and ten exact prompts](agentic/RECIPE.md)
+- [Hugging Face model package](https://huggingface.co/Ibrahimsait/Qwen3.8-27B-EXL3-3.5bpw-Dual3090-Recipe): unmodified Mia-AiLab weights with recipe/provenance, **not a newly trained or requantized model**.
+
+The following sections preserve the earlier three-hour controlled-length measurements; do not combine them with the natural agentic run as one experiment.
+
 Three hours of local measurements, September 26, 2026. **18 completed long-response measurements** across 16 completed experiment processes; one additional repeat was stopped at the time limit before producing a measured response.
 
 ## Results worth sharing

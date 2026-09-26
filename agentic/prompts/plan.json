@@ -1,0 +1,42 @@
+[
+  {
+    "turn": 1,
+    "title": "Architecture and executable foundation"
+  },
+  {
+    "turn": 2,
+    "title": "Persistent domain and safe migrations"
+  },
+  {
+    "turn": 3,
+    "title": "Complete REST API and contract tests"
+  },
+  {
+    "turn": 4,
+    "title": "Usable frontend with complete CRUD flows"
+  },
+  {
+    "turn": 5,
+    "title": "Kanban, search and combined filters"
+  },
+  {
+    "turn": 6,
+    "title": "Dashboard, deadlines and accessibility"
+  },
+  {
+    "turn": 7,
+    "title": "Import/export and schema evolution"
+  },
+  {
+    "turn": 8,
+    "title": "End-to-end acceptance and error recovery"
+  },
+  {
+    "turn": 9,
+    "title": "Realistic scale, regressions and product polish"
+  },
+  {
+    "turn": 10,
+    "title": "Final release acceptance and complete handover"
+  }
+]

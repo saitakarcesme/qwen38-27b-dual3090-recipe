@@ -1,0 +1,9 @@
+=== FINAL FULL VERIFICATION ===
+--- backend ---
+102 passed, 8 warnings in 3.88s
+--- browser smoke ---
+Browser smoke: 37 passed, 0 failed
+--- browser scale ---
+Browser scale: 7 passed, 0 failed
+--- e2e ---
+E2E acceptance: 25 passed, 0 failed (16.34s). Report: PROJECT\acceptance_report.json

@@ -1,0 +1,18 @@
+gpus,turn,stage,status,elapsed_hour,context_min,context_max,output_tokens,decode_tps,ttft_s,wall_s,end_to_end_tps,tool_seconds,tool_calls,core_max,hotspot_max,memory_max
+1,1,Architecture and executable foundation,complete,0.0672,8174,27628,14771,95.13,1.008,242.08,61.02,39.132,35,73,88.125,74.0
+1,2,Persistent domain and safe migrations,complete,0.1764,29005,62972,26725,85.56,1.36,393.11,67.98,12.462,44,74,90.125,76.0
+1,3,Complete REST API and contract tests,complete,0.2579,64441,85690,15739,74.06,1.616,293.08,53.7,22.256,33,75,91.875,74.0
+1,4,Usable frontend with complete CRUD flows,complete,1.2535,87099,190274,77554,56.35,2.632,3584.44,21.64,1845.311,133,75,91.3125,76.0
+1,5,"Kanban, search and combined filters",complete,1.4503,191783,222668,20308,47.88,2.785,708.2,28.68,108.982,56,76,91.5,74.0
+1,6,"Dashboard, deadlines and accessibility",complete,1.8482,16590,233118,51594,60.8,1.754,1432.52,36.02,261.466,138,76,92.25,74.0
+1,7,Import/export and schema evolution,interrupted by user,,121312,150559,17662,55.9,2.259,,,,,75,91.21875,74.0
+2,1,Architecture and executable foundation,complete,0.0714,8174,39360,17402,114.31,0.943,257.08,67.69,39.2,46,76,87.5625,92.0
+2,2,Persistent domain and safe migrations,complete,0.1412,40576,71427,20901,106.17,1.1,251.1,83.24,7.588,34,76,88.15625,94.0
+2,3,Complete REST API and contract tests,complete,0.1981,72828,91656,13474,97.67,1.138,205.08,65.7,18.762,34,76,87.625,94.0
+2,4,Usable frontend with complete CRUD flows,complete,0.3332,93097,129831,29838,92.06,1.421,486.15,61.38,101.049,34,77,88.5625,94.0
+2,5,"Kanban, search and combined filters",complete,0.4188,131188,151770,18096,86.19,1.776,308.09,58.74,53.687,20,77,88.34375,92.0
+2,6,"Dashboard, deadlines and accessibility",complete,0.6016,153155,187914,23313,75.58,1.811,658.25,35.42,225.116,62,76,88.25,92.0
+2,7,Import/export and schema evolution,complete,0.7575,189392,223838,25299,69.06,2.2,561.19,45.08,51.621,58,77,88.53125,92.0
+2,8,End-to-end acceptance and error recovery,complete,0.8556,19663,233631,16141,69.47,1.328,353.12,45.71,56.71,22,77,89.21875,92.0
+2,9,"Realistic scale, regressions and product polish",complete,1.1196,35593,146988,45560,81.93,1.674,950.38,47.94,169.742,107,77,88.53125,92.0
+2,10,Final release acceptance and complete handover,complete,1.236,148619,171159,15766,72.27,2.049,419.15,37.61,128.92,32,77,88.65625,92.0
