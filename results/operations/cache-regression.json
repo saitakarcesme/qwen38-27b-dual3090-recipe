@@ -1,0 +1,15 @@
+{
+  "tested_on": "2026-10-25",
+  "packaged_on": "2026-10-26",
+  "before": {
+    "exit_code": 1,
+    "reported_bytes": 0,
+    "actual_bytes": 1048576
+  },
+  "fixed": {
+    "exit_code": 0,
+    "transfers": 40,
+    "result": "exact values, bounded FIFO eviction, synchronized accounting and cache reuse passed"
+  },
+  "rerun_during_packaging": false
+}

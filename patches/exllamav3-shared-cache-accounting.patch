@@ -1,0 +1,26 @@
+--- a/exllamav3/model/model_tp_shared.py
++++ b/exllamav3/model/model_tp_shared.py
+@@ -107,8 +107,10 @@
+                     "cache_id": cache_id,
+                 }
+             while self.cache_size + nbytes > MAX_CACHE_PER_PROCESS:
+-                self.cached_cpu_tensors.pop(next(iter(self.cached_cpu_tensors)))
++                evicted = self.cached_cpu_tensors.pop(next(iter(self.cached_cpu_tensors)))
++                self.cache_size -= evicted.numel() * evicted.element_size()
+             self.cached_cpu_tensors[cache_id] = tensor
++            self.cache_size += nbytes
+             # print("caching send:", cache_id)
+ 
+         # Data is now buffered in shared memory space, store metadata and offset
+@@ -243,8 +245,10 @@
+                 # print("caching recv:", cache_id)
+                 assert not cuda, "Cannot share cached tensor for CUDA"
+                 while self.cache_size + nbytes > MAX_CACHE_PER_PROCESS:
+-                    self.cached_cpu_tensors.pop(next(iter(self.cached_cpu_tensors)))
++                    evicted = self.cached_cpu_tensors.pop(next(iter(self.cached_cpu_tensors)))
++                    self.cache_size -= evicted.numel() * evicted.element_size()
+                 self.cached_cpu_tensors[cache_id] = tensor.clone(memory_format = torch.contiguous_format)
++                self.cache_size += nbytes
+ 
+         # Slice before cloning
+         if slice_dim is not None:
