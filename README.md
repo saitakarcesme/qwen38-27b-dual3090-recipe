@@ -131,3 +131,11 @@ The original run used independent core/hotspot/memory monitoring and cooperative
 ## Credits and scope
 
 Model/quantization: [Mia-AiLab](https://huggingface.co/Mia-AiLab/Qwen3.8-27B-EXL3-3.5bpw). Runtime: [turboderp / ExLlamaV3](https://github.com/turboderp-org/exllamav3). Original model lineage: [Qwen](https://huggingface.co/Qwen/Qwen3.8-27B). This repository is an independent hardware recipe, not an upstream endorsement. No weights, tokens, private code, local account paths or generated source corpus are included.
+
+## Linux homelab follow-up (October 2026)
+
+These separate operational observations do not change the Windows benchmark results:
+
+- [Vision example and smoke check](examples/vision/README.md), measured October 23.
+- [Shared-memory cache accounting patch and regression](patches/README.md), repaired October 25.
+- [Inference outage recovery, evidence and publication dates](docs/inference-outage-2026-10-25.md).
