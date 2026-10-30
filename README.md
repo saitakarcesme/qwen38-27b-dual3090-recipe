@@ -139,3 +139,5 @@ These separate operational observations do not change the Windows benchmark resu
 - [Vision example and smoke check](examples/vision/README.md), measured October 23.
 - [Shared-memory cache accounting patch and regression](patches/README.md), repaired October 25.
 - [Inference outage recovery, evidence and publication dates](docs/inference-outage-2026-10-25.md).
+
+- [Elpis recovery, GPU1 placement and document sessions](docs/elpis-operations-2026-10-30.md), measured October 30.
