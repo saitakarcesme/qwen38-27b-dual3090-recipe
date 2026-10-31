@@ -141,3 +141,4 @@ These separate operational observations do not change the Windows benchmark resu
 - [Inference outage recovery, evidence and publication dates](docs/inference-outage-2026-10-25.md).
 
 - [Elpis recovery, GPU1 placement and document sessions](docs/elpis-operations-2026-10-30.md), measured October 30.
+- [Vision qualification and stage-3 preparation](docs/vision-qualification-2026-10-31.md), measured October 31; includes the initial memory failure and subsequent full-context passes.
